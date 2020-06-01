@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E8%25A7%2586%25E9%25A2%2591%25E5%2589%25AA%25E8%25BE%2591/</loc>
+        <lastmod>2020-06-01T11:12:21.567Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/Android%25E8%25BD%25AF%25E4%25BB%25B6/</loc>
+        <lastmod>2020-06-01T11:12:21.567Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E8%25BD%25AF%25E4%25BB%25B6%25E8%25B5%2584%25E6%25BA%2590/</loc>
+        <lastmod>2020-06-01T11:12:21.567Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://xiaoqiu2020.github.io/tags/%25E5%25AF%2586%25E9%2592%25A5/</loc>
         <lastmod>2020-05-30T15:15:07.985Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -10,14 +31,14 @@
     </url>
 
     <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E5%258A%259E%25E5%2585%25AC/</loc>
+        <loc>http://xiaoqiu2020.github.io/tags/Office/</loc>
         <lastmod>2020-05-30T15:15:07.985Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://xiaoqiu2020.github.io/tags/Office/</loc>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E5%258A%259E%25E5%2585%25AC/</loc>
         <lastmod>2020-05-30T15:15:07.985Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -67,13 +88,6 @@
 
     <url>
         <loc>http://xiaoqiu2020.github.io/tags/Win%25E8%25BD%25AF%25E4%25BB%25B6/</loc>
-        <lastmod>2020-05-30T08:48:33.131Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E8%25BD%25AF%25E4%25BB%25B6%25E8%25B5%2584%25E6%25BA%2590/</loc>
         <lastmod>2020-05-30T08:48:33.131Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
