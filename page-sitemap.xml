@@ -8,8 +8,15 @@
     </url>
     
     <url>
+        <loc>http://xiaoqiu2020.github.io/hot%2520list/</loc>
+        <lastmod>2020-06-02T03:51:38.085Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://xiaoqiu2020.github.io/keywords/</loc>
-        <lastmod>2020-05-30T09:38:46.879Z</lastmod>
+        <lastmod>2020-06-02T03:15:40.976Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
