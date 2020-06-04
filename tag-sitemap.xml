@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E7%2599%25BE%25E5%25BA%25A6%25E7%25BD%2591%25E7%259B%2598/</loc>
+        <lastmod>2020-06-04T03:46:14.640Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/VIP%25E8%25B4%25A6%25E5%258F%25B7/</loc>
+        <lastmod>2020-06-04T03:46:14.640Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://xiaoqiu2020.github.io/tags/%25E6%2580%259D%25E7%25BB%25B4%25E5%25AF%25BC%25E5%259B%25BE/</loc>
         <lastmod>2020-06-02T09:44:52.457Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -38,20 +52,6 @@
     </url>
 
     <url>
-        <loc>http://xiaoqiu2020.github.io/tags/VIP%25E8%25B4%25A6%25E5%258F%25B7/</loc>
-        <lastmod>2020-06-01T13:19:26.782Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E7%2599%25BE%25E5%25BA%25A6%25E7%25BD%2591%25E7%259B%2598/</loc>
-        <lastmod>2020-06-01T13:02:15.487Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://xiaoqiu2020.github.io/tags/%25E8%25A7%2586%25E9%25A2%2591%25E5%2589%25AA%25E8%25BE%2591/</loc>
         <lastmod>2020-06-01T11:12:21.567Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -66,14 +66,14 @@
     </url>
 
     <url>
-        <loc>http://xiaoqiu2020.github.io/tags/Office/</loc>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E5%25AF%2586%25E9%2592%25A5/</loc>
         <lastmod>2020-05-30T15:15:07.985Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E5%25AF%2586%25E9%2592%25A5/</loc>
+        <loc>http://xiaoqiu2020.github.io/tags/Office/</loc>
         <lastmod>2020-05-30T15:15:07.985Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
