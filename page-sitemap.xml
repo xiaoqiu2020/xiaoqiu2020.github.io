@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>http://xiaoqiu2020.github.io/keywords/</loc>
+        <lastmod>2020-06-05T03:49:05.607Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://xiaoqiu2020.github.io/reward/</loc>
         <lastmod>2020-06-04T14:23:14.853Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,13 +31,6 @@
     <url>
         <loc>http://xiaoqiu2020.github.io/hot%2520list/</loc>
         <lastmod>2020-06-04T03:51:05.064Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://xiaoqiu2020.github.io/keywords/</loc>
-        <lastmod>2020-06-04T03:47:14.561Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
