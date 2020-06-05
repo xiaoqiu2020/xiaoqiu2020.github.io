@@ -8,6 +8,13 @@
     </url>
 
     <url>
+        <loc>http://xiaoqiu2020.github.io/categories/%25E6%25BF%2580%25E6%25B4%25BB%25E5%25AF%2586%25E9%2592%25A5/</loc>
+        <lastmod>2020-06-05T08:45:07.375Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://xiaoqiu2020.github.io/categories/%25E8%25B0%25B7%25E6%25AD%258C%25E6%258F%2592%25E4%25BB%25B6/</loc>
         <lastmod>2020-06-05T03:46:46.698Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -31,13 +38,6 @@
     <url>
         <loc>http://xiaoqiu2020.github.io/categories/Android%25E8%25BD%25AF%25E4%25BB%25B6/</loc>
         <lastmod>2020-06-01T11:12:21.567Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/categories/%25E6%25BF%2580%25E6%25B4%25BB%25E5%25AF%2586%25E9%2592%25A5/</loc>
-        <lastmod>2020-05-30T15:15:07.985Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
