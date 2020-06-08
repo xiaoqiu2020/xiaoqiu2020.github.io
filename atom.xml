@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaoqiu2020.github.io/"/>
-  <updated>2020-06-07T02:03:27.249Z</updated>
+  <updated>2020-06-08T07:26:24.177Z</updated>
   <id>http://xiaoqiu2020.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JDK安装教程</title>
+    <link href="http://xiaoqiu2020.github.io/ckb664j59000024vf96yc5n7k/"/>
+    <id>http://xiaoqiu2020.github.io/ckb664j59000024vf96yc5n7k/</id>
+    <published>2020-06-08T07:14:49.000Z</published>
+    <updated>2020-06-08T07:26:24.177Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>JDK是Java语言的软件开发工具包，主要用于移动设备、嵌入式设备上的java应用程序。JDK是整个java开发的核心，它包含了JAVA的运行环境（JVM+Java系统类库）和JAVA工具。</p></blockquote><a id="more"></a><p>首先按提示步骤安装好JDK，再进行环境配置</p><p>（最好不要更改jdk的默认安装路径）</p><h2 id="JDK的环境配置"><a href="#JDK的环境配置" class="headerlink" title="JDK的环境配置"></a>JDK的环境配置</h2><p>1.打开jdk的安装路径，选中地址栏鼠标右击选择【复制】。</p><blockquote><p>64位的jdk的默认安装路径是【C:\Program Files\Java\jdk1.8.0_221】。</p><p>32位的jdk的默认安装路径是【C:\Program Files (x86)\Java\jdk1.8.0_221】</p></blockquote><p><img src="/ckb664j59000024vf96yc5n7k/1.png" alt></p><br><p>2.右击【此电脑】然后选择【属性】</p><p><img src="/ckb664j59000024vf96yc5n7k/2.png" alt></p><br><p>3.点击【高级系统设置】</p><p><img src="/ckb664j59000024vf96yc5n7k/3.png" alt></p><br><p>4.点击【环境变量】</p><p><img src="/ckb664j59000024vf96yc5n7k/4.png" alt></p><br><p>5.在系统变量下点击【新建】</p><p><img src="/ckb664j59000024vf96yc5n7k/5.png" alt></p><br><p>6.变量名输入【JAVA_HOME】，在变量值栏中使用快捷键Ctrl+V粘贴第10步中复制的jdk的路径，然后点击【确定】</p><p><img src="/ckb664j59000024vf96yc5n7k/6.jpg" alt></p><br><p>7.点击【新建】</p><p><img src="/ckb664j59000024vf96yc5n7k/7.png" alt></p><br><p>8.变量名中输入【CLASSPATH】,变量值中输入【.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar】</p><p>（建议直接复制【】里面的内容）然后点击【确定】</p><p><img src="/ckb664j59000024vf96yc5n7k/8.jpg" alt></p><br><p>9.在系统变量中找到【Path】变量，然后点击【编辑】</p><p><img src="/ckb664j59000024vf96yc5n7k/9.png" alt></p><br><p>10.点击【新建】</p><p>输入【%JAVA_HOME%\bin】然后点击【确定】。</p><p><strong>温馨提示：Win7系统用户输入【;%JAVA_HOME%\bin】，注意多一个分号。</strong></p><p><img src="/ckb664j59000024vf96yc5n7k/10.png" alt></p><br><p>11.点击【确定】</p><p><img src="/ckb664j59000024vf96yc5n7k/11.png" alt></p><br><p>12.点击【确定】</p><p><img src="/ckb664j59000024vf96yc5n7k/12.png" alt></p><br><p>13.按下键盘上的快捷键win+R，输入【cmd】然后点击【确定】</p><p><img src="/ckb664j59000024vf96yc5n7k/13.png" alt></p><br><p>14.输入【java -version】并按下键盘上的【Enter】键得到jdk的安装版本。</p><p><strong>温馨提示：-version前面有个空格。</strong></p><p><img src="/ckb664j59000024vf96yc5n7k/14.png" alt></p><br><p>15.输入【java】然后按键盘上面的【Enter】键</p><p><img src="/ckb664j59000024vf96yc5n7k/15.png" alt></p><br><p>16.得到以下信息</p><p><img src="/ckb664j59000024vf96yc5n7k/16.png" alt></p><br><p>17.输入【javac】然后按键盘上面的【Enter】键</p><p><img src="/ckb664j59000024vf96yc5n7k/17.png" alt></p><br><p>18.得到以下信息</p><p><img src="/ckb664j59000024vf96yc5n7k/18.png" alt></p><br><p>JDK就安装成功啦！</p><details><summary>点击查看JDK领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【JDK】希望对大家能有所帮助！<p><img src="/ckb664j59000024vf96yc5n7k/gzh.jpeg" alt></p></pre></details>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;JDK是Java语言的软件开发工具包，主要用于移动设备、嵌入式设备上的java应用程序。JDK是整个java开发的核心，它包含了JAVA的运行环境（JVM+Java系统类库）和JAVA工具。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="Win软件" scheme="http://xiaoqiu2020.github.io/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+      <category term="软件资源" scheme="http://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="Win软件" scheme="http://xiaoqiu2020.github.io/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="编程" scheme="http://xiaoqiu2020.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="JAVA" scheme="http://xiaoqiu2020.github.io/tags/JAVA/"/>
+    
+  </entry>
   
   <entry>
     <title>网盘账号0606更新</title>
