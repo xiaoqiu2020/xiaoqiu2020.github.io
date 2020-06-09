@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 4.2.1">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/xiaoqiu.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/xiaoqiu.ico">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"xiaoqiu2020.github.io","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":"ture","show_result":"ture","style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":"ture"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"appID":"HTV2NH9BFZ","indexName":"xiaoqiu_NAME","hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":"ture","trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+  </script>
+
+  <meta name="description" content="油猴（Tampermonkey）是浏览器的插件，油猴子很特别，它本身是一个脚本管理器，通过安装无限脚本，能为我们提供超神的功能！有了油猴你就可以给你的浏览器开个挂！它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。（还有一个特殊的浏览器“星愿浏览器”，需要安装谷歌访问助手！）个人比较喜欢用星愿浏览器">
+<meta property="og:type" content="article">
+<meta property="og:title" content="浏览器插件：01.油猴插件">
+<meta property="og:url" content="http://xiaoqiu2020.github.io/ckb7c3pv10002rovf20ox8dir/index.html">
+<meta property="og:site_name" content="XIAOQIU">
+<meta property="og:description" content="油猴（Tampermonkey）是浏览器的插件，油猴子很特别，它本身是一个脚本管理器，通过安装无限脚本，能为我们提供超神的功能！有了油猴你就可以给你的浏览器开个挂！它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。（还有一个特殊的浏览器“星愿浏览器”，需要安装谷歌访问助手！）个人比较喜欢用星愿浏览器">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://xiaoqiu2020.github.io/ckb7c3pv10002rovf20ox8dir/1.png">
+<meta property="og:image" content="http://xiaoqiu2020.github.io/ckb7c3pv10002rovf20ox8dir/2.png">
+<meta property="og:image" content="http://xiaoqiu2020.github.io/ckb7c3pv10002rovf20ox8dir/3.png">
+<meta property="og:image" content="http://xiaoqiu2020.github.io/ckb7c3pv10002rovf20ox8dir/4.png">
+<meta property="og:image" content="http://xiaoqiu2020.github.io/ckb7c3pv10002rovf20ox8dir/5.png">
+<meta property="og:image" content="http://xiaoqiu2020.github.io/ckb7c3pv10002rovf20ox8dir/gzh.jpeg">
+<meta property="article:published_time" content="2020-06-05T02:15:27.000Z">
+<meta property="article:modified_time" content="2020-06-05T03:46:46.698Z">
+<meta property="article:author" content="Cheng Liang">
+<meta property="article:tag" content="谷歌浏览器">
+<meta property="article:tag" content="星愿浏览器">
+<meta property="article:tag" content="浏览器插件">
+<meta property="article:tag" content="神器">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://xiaoqiu2020.github.io/ckb7c3pv10002rovf20ox8dir/1.png">
+
+<link rel="canonical" href="http://xiaoqiu2020.github.io/ckb7c3pv10002rovf20ox8dir/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>浏览器插件：01.油猴插件 | XIAOQIU</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+  <script type="text/javascript" src="/source/js/click_magic.js"></script>
+<link rel="alternate" href="/atom.xml" title="XIAOQIU" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div id="id-heaser-inner" class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">XIAOQIU</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">科技才是第一生产力</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+        <li class="menu-item menu-item-messagepad">
+
+    <a href="/messagepad/" rel="section"><i class="fa fa-address-card fa-fw"></i>留言板</a>
+
+  </li>
+        <li class="menu-item menu-item-reward">
+
+    <a href="/reward/" rel="section"><i class="fa fa-donate fa-fw"></i>捐赠</a>
+
+  </li>
+        <li class="menu-item menu-item-keywords">
+
+    <a href="/keywords/" rel="section"><i class="fa fa-bezier-curve fa-fw"></i>关键词</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://xiaoqiu2020.github.io/ckb7c3pv10002rovf20ox8dir/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/logo3.png">
+      <meta itemprop="name" content="Cheng Liang">
+      <meta itemprop="description" content="步骤多一点，麻烦少一点">
+    </span>
+    
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="XIAOQIU">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          浏览器插件：01.油猴插件
+        </h1>
+    
+        <div class="post-meta">
+
+
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+    
+              <time title="创建时间：2020-06-05 10:15:27 / 修改时间：11:46:46" itemprop="dateCreated datePublished" datetime="2020-06-05T10:15:27+08:00">2020-06-05</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E8%B0%B7%E6%AD%8C%E6%8F%92%E4%BB%B6/" itemprop="url" rel="index"><span itemprop="name">谷歌插件</span></a>
+                </span>
+            </span>
+    
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/ckb7c3pv10002rovf20ox8dir/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/ckb7c3pv10002rovf20ox8dir/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+    
+        </div>
+      </header>
+    
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+    
+      
+        <blockquote>
+<p>油猴（Tampermonkey）是浏览器的插件，油猴子很特别，它本身是一个脚本管理器，通过安装无限脚本，能为我们提供超神的功能！有了油猴你就可以给你的浏览器开个挂！它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。（还有一个特殊的浏览器“星愿浏览器”，需要安装谷歌访问助手！）个人比较喜欢用星愿浏览器</p>
+</blockquote>
+<a id="more"></a>
+
+<p>在“小秋PPT”公众号后台回复“星愿浏览器”获得安装包！</p>
+<h2 id="如何下载油猴？"><a href="#如何下载油猴？" class="headerlink" title="如何下载油猴？"></a>如何下载油猴？</h2><p>传送⛩：<a href="http://www.tampermonkey.net" target="_blank" rel="noopener">油猴插件下载</a></p>
+<p>选择相对应的版本进行下载安装！</p>
+<p>星愿浏览器需要安装谷歌访问助手▼</p>
+<p>传送⛩：<a href="https://www.chrome666.com/chrome-extension/ghelper_beta.html" target="_blank" rel="noopener">谷歌访问助手下载</a></p>
+<h2 id="有哪些超神外挂"><a href="#有哪些超神外挂" class="headerlink" title="有哪些超神外挂"></a>有哪些超神外挂</h2><h3 id="破解VIP会员视频集合"><a href="#破解VIP会员视频集合" class="headerlink" title="破解VIP会员视频集合"></a>破解VIP会员视频集合</h3><p>一键破解优酷、腾讯、乐视、爱奇艺、芒果、AB站、音悦台等VIP或会员视频</p>
+<p><strong>我们以海贼王第929集为例</strong></p>
+<p><img src="/ckb7c3pv10002rovf20ox8dir/1.png" alt></p>
+<p>一点击进去就需要VIP</p>
+<p><img src="/ckb7c3pv10002rovf20ox8dir/2.png" alt></p>
+<p>我们只需点击左侧的视频网站列表, 就可以跳转到一个新的页面</p>
+<p><img src="/ckb7c3pv10002rovf20ox8dir/3.png" alt></p>
+<p>页面内有对应的的在线播放的视频</p>
+<p><img src="/ckb7c3pv10002rovf20ox8dir/4.png" alt></p>
+<p>传送⛩：<a href="[https://greasyfork.org/zh-CN/scripts/27530-%E7%A0%B4%E8%A7%A3vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E9%9B%86%E5%90%88](https://greasyfork.org/zh-CN/scripts/27530-破解vip会员视频集合)">破解VIP会员视频集合</a></p>
+<h3 id="刷课脚本"><a href="#刷课脚本" class="headerlink" title="刷课脚本"></a>刷课脚本</h3><p>有许多大神开发了许多刷课脚本，超星、智慧树、智慧职教等等各大平台基本都有</p>
+<p>自动答题、自动跳转下一任务点！</p>
+<p>开启挂科模式！盲目刷课不可取，重要的课程还是要听听！</p>
+<p>推荐几个比较好用的脚本：</p>
+<p><a href="[https://greasyfork.org/zh-CN/scripts/401773-%E8%B6%85%E6%98%9F%E5%B0%94%E9%9B%85%E5%AD%A6%E4%B9%A0%E9%80%9A%E7%BD%91%E8%AF%BE%E5%8A%A9%E6%89%8B-%E6%9C%80%E5%BC%BA%E9%A2%98%E5%BA%93-%E7%B2%BE%E5%87%86%E7%AD%94%E9%A2%98](https://greasyfork.org/zh-CN/scripts/401773-超星尔雅学习通网课助手-最强题库-精准答题)">超星尔雅学习通网课助手(最强题库-精准答题)</a></p>
+<p><a href="[https://greasyfork.org/zh-CN/scripts/403152-%E6%99%BA%E6%85%A7%E6%A0%91%E7%BD%91%E8%AF%BE%E5%8A%A9%E6%89%8B-%E6%9C%80%E5%BC%BA%E9%A2%98%E5%BA%93-%E7%B2%BE%E5%87%86%E7%AD%94%E9%A2%98](https://greasyfork.org/zh-CN/scripts/403152-智慧树网课助手-最强题库-精准答题)">智慧树网课助手(最强题库-精准答题)</a></p>
+<p><a href="[https://greasyfork.org/zh-CN/scripts/396813-%E4%BA%91%E8%AF%BE%E5%A0%82-%E8%81%8C%E6%95%99%E4%BA%91-icve-%E7%BD%91%E8%AF%BE%E5%85%BC%E8%80%83%E8%AF%95%E5%8A%A9%E6%89%8B-%E7%BB%BF%E7%89%88v3](https://greasyfork.org/zh-CN/scripts/396813-云课堂-职教云-icve-网课兼考试助手-绿版v3)">云课堂|职教云|Icve –网课兼考试助手 (绿版v3)</a></p>
+<p><a href="[https://greasyfork.org/zh-CN/scripts/404522-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%85%95%E8%AF%BEmooc%E7%BD%91%E8%AF%BE%E5%8A%A9%E6%89%8B](https://greasyfork.org/zh-CN/scripts/404522-中国大学慕课mooc网课助手)">中国大学慕课mooc网课助手</a></p>
+<p>以上只是个人推荐，可以自己选择，选择下载人数较多的一般不会错！</p>
+<h2 id="更多脚本下载"><a href="#更多脚本下载" class="headerlink" title="更多脚本下载"></a>更多脚本下载</h2><p>传送⛩：<a href="http://www.baidu.com/link?url=bgK0M716lC6UqDLVV8wcRuywHL7pefCEH5RhRmuc6GrcdKxdqRR34giz4Gseueif" target="_blank" rel="noopener">greasy fork 一个提供用户<em>油猴</em>脚本的网站</a></p>
+<p>差不多有上千个脚本，等你自己去发掘！</p>
+<h2 id="脚本管理"><a href="#脚本管理" class="headerlink" title="脚本管理"></a>脚本管理</h2><p>在浏览器顶端找到油猴logo并点击</p>
+<p><img src="/ckb7c3pv10002rovf20ox8dir/5.png" alt></p>
+<p>其中就有管理面板，可以在里面打开、关闭、删除脚本</p>
+<details>
+<summary>关注我们</summary>
+<pre>
+微信扫码关注小秋PPT微信公众号
+
+<p><img src="/ckb7c3pv10002rovf20ox8dir/gzh.jpeg" alt></p>
+</pre></details>
+    </div>
+    
+    
+    
+    
+        <div class="reward-container">
+  <div><font color=red size=4>**请博主坐一趟公交车**</font></div>
+  <button onclick="var qr = document.getElementById('qr'); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    打赏
+  </button>
+  <div id="qr" style="display: none;">
+      
+      <div style="display: inline-block;">
+        <img src="/images/wx.png" alt="Cheng Liang 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div style="display: inline-block;">
+        <img src="/images/zfb.jpg" alt="Cheng Liang 支付宝">
+        <p>支付宝</p>
+      </div>
+
+  </div>
+</div>
+
+    
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8/" rel="tag"># 谷歌浏览器</a>
+              <a href="/tags/%E6%98%9F%E6%84%BF%E6%B5%8F%E8%A7%88%E5%99%A8/" rel="tag"># 星愿浏览器</a>
+              <a href="/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/" rel="tag"># 浏览器插件</a>
+              <a href="/tags/%E7%A5%9E%E5%99%A8/" rel="tag"># 神器</a>
+          </div>
+    
+        
+
+    
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/ckb7c3pvn000qrovfay9p4r1j/" rel="prev" title="Win 10激活密钥">
+      <i class="fa fa-chevron-left"></i> Win 10激活密钥
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/ckb7c3pvl000mrovf0usu5pge/" rel="next" title="Office密钥0605更新">
+      Office密钥0605更新 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#如何下载油猴？"><span class="nav-number">1.</span> <span class="nav-text">如何下载油猴？</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#有哪些超神外挂"><span class="nav-number">2.</span> <span class="nav-text">有哪些超神外挂</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#破解VIP会员视频集合"><span class="nav-number">2.1.</span> <span class="nav-text">破解VIP会员视频集合</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#刷课脚本"><span class="nav-number">2.2.</span> <span class="nav-text">刷课脚本</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#更多脚本下载"><span class="nav-number">3.</span> <span class="nav-text">更多脚本下载</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#脚本管理"><span class="nav-number">4.</span> <span class="nav-text">脚本管理</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Cheng Liang"
+      src="/images/logo3.png">
+  <p class="site-author-name" itemprop="name">Cheng Liang</p>
+  <div class="site-description" itemprop="description">步骤多一点，麻烦少一点</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">20</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">23</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+<script charset="Shift_JIS" src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.js"></script>
+
+<p id="hitokoto">正在加载一言...</p>
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2020</span>
+  <span class="with-love" id="heart">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Cheng Liang</span>
+</div>
+  <div class="powered-by">由 <a href="https://xiaoqiu2020.github.io/" class="theme-link">XIAOQIU</a> & <a href="https://gemini.theme-next.org/" class="theme-link" rel="noopener" target="_blank">Cheng Liang</a> 强力驱动
+  </div>
+  <div class="addthis_inline_share_toolbox">
+    <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=14dc369abc68da03" async="async"></script>
+  </div>
+
+<div class="theme-info">
+  <div class="powered-by"></div>
+  <span class="post-count">博客全站共7k字</span>
+</div>
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+  <script src="//code.tidio.co/optnmyziznwozxnk6dfwwwhpcs3axeyi.js"></script>
+
+
+
+
+
+
+
+  
+
+  
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el         : '#valine-comments',
+      verify     : false,
+      notify     : false,
+      appId      : 'SiM94mrCiKuqam0vY63Ur3pW-gzGzoHsz',
+      appKey     : 'levtOjYqCsGIhuMVWprrKpYx',
+      placeholder: "欢迎吐槽 ！",
+      avatar     : 'mm',
+      meta       : guest,
+      pageSize   : '10' || 10,
+      visitor    : false,
+      lang       : '' || 'zh-cn',
+      path       : location.pathname,
+      recordIP   : false,
+      serverURLs : ''
+    });
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>
+
+<!-- �ı�css��ʽ -->
+<script type="text/javascript">
+var url = document.location.pathname;
+var folderName = url.substr(1, url.length - 2)
+console.log(folderName);
+
+var listPostUrl = [
+    "/" + folderName + "/" + "post-banner.png",
+    "/" + folderName + "/" + "post-banner.jpg",
+];
+
+var nSuccessCount = 0;
+var nResponceCount = 0;
+function OnHttpResponse(bSuccess, strUrl) {
+    console.log("OnHttpResponse: " + bSuccess + ", " + strUrl);
+    nResponceCount++;
+    if(nSuccessCount > 0){
+        return;
+    }
+    if(bSuccess) {
+        nSuccessCount++;
+        document.getElementById("id-header-inner").style.backgroundImage = "url(" + strUrl + ")";
+    }
+    if(nResponceCount >= listPostUrl.length && nSuccessCount <= 0){
+        // ʹ��Ĭ��ͼ
+        document.getElementById("id-header-inner").style.backgroundImage = "url(/images/background.jpg)";
+    }
+}
+
+function changeBanner(strPostUrl, nIndex){
+    console.log("try to load" + strPostUrl);
+    var xmlhttp;
+    if (window.XMLHttpRequest)
+    {
+        //  IE7+, Firefox, Chrome, Opera, Safari �����ִ�д���
+        xmlhttp=new XMLHttpRequest();
+    }
+    else
+    {
+        // IE6, IE5 �����ִ�д���
+        xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    xmlhttp.onreadystatechange=function()
+    {
+        if (xmlhttp.readyState==4 && xmlhttp.status==200)
+        {
+            OnHttpResponse(true, strPostUrl);
+        } else {
+            OnHttpResponse(false, strPostUrl);
+        }
+    }
+    xmlhttp.open("HEAD",strPostUrl,true);
+    xmlhttp.send();
+}
+
+listPostUrl.forEach(changeBanner);
+</script>
+
+<!-- �� API ������ ʮ�ּ�� -->
+<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
