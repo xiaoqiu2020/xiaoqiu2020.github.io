@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E5%258A%259E%25E5%2585%25AC/</loc>
+        <lastmod>2020-06-09T13:54:05.878Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/Autodesk/</loc>
+        <lastmod>2020-06-09T13:54:05.878Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/Win%25E8%25BD%25AF%25E4%25BB%25B6/</loc>
+        <lastmod>2020-06-09T13:54:05.878Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E8%25BD%25AF%25E4%25BB%25B6%25E8%25B5%2584%25E6%25BA%2590/</loc>
+        <lastmod>2020-06-09T13:54:05.878Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://xiaoqiu2020.github.io/tags/VIP%25E8%25B4%25A6%25E5%258F%25B7/</loc>
         <lastmod>2020-06-09T02:53:38.200Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -25,20 +53,6 @@
 
     <url>
         <loc>http://xiaoqiu2020.github.io/tags/%25E7%25BC%2596%25E7%25A8%258B/</loc>
-        <lastmod>2020-06-08T07:26:24.177Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/Win%25E8%25BD%25AF%25E4%25BB%25B6/</loc>
-        <lastmod>2020-06-08T07:26:24.177Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E8%25BD%25AF%25E4%25BB%25B6%25E8%25B5%2584%25E6%25BA%2590/</loc>
         <lastmod>2020-06-08T07:26:24.177Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -89,13 +103,6 @@
     <url>
         <loc>http://xiaoqiu2020.github.io/tags/%25E5%25AF%2586%25E9%2592%25A5/</loc>
         <lastmod>2020-06-05T09:19:36.389Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E5%258A%259E%25E5%2585%25AC/</loc>
-        <lastmod>2020-06-05T08:43:21.315Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
