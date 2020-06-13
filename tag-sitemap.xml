@@ -3,6 +3,48 @@
 
 
     <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E7%25A5%259E%25E5%2599%25A8/</loc>
+        <lastmod>2020-06-13T12:44:44.009Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8%25E6%258F%2592%25E4%25BB%25B6/</loc>
+        <lastmod>2020-06-13T12:44:44.009Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E6%2598%259F%25E6%2584%25BF%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8/</loc>
+        <lastmod>2020-06-13T12:44:44.009Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E8%25B0%25B7%25E6%25AD%258C%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8/</loc>
+        <lastmod>2020-06-13T12:44:44.009Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/IDM/</loc>
+        <lastmod>2020-06-13T12:43:09.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E7%2599%25BE%25E5%25BA%25A6%25E7%25BD%2591%25E7%259B%2598/</loc>
+        <lastmod>2020-06-13T12:43:09.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://xiaoqiu2020.github.io/tags/%25E6%25B8%25B8%25E6%2588%258F%25E5%258A%25A0%25E9%2580%259F/</loc>
         <lastmod>2020-06-12T03:15:24.395Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,34 +61,6 @@
     <url>
         <loc>http://xiaoqiu2020.github.io/tags/%25E8%25BD%25AF%25E4%25BB%25B6%25E8%25B5%2584%25E6%25BA%2590/</loc>
         <lastmod>2020-06-12T03:15:24.395Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E7%25A5%259E%25E5%2599%25A8/</loc>
-        <lastmod>2020-06-11T12:39:32.226Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8%25E6%258F%2592%25E4%25BB%25B6/</loc>
-        <lastmod>2020-06-11T12:39:32.226Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E6%2598%259F%25E6%2584%25BF%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8/</loc>
-        <lastmod>2020-06-11T12:39:32.226Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E8%25B0%25B7%25E6%25AD%258C%25E6%25B5%258F%25E8%25A7%2588%25E5%2599%25A8/</loc>
-        <lastmod>2020-06-11T12:39:32.226Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -108,22 +122,8 @@
     </url>
 
     <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E7%2599%25BE%25E5%25BA%25A6%25E7%25BD%2591%25E7%259B%2598/</loc>
-        <lastmod>2020-06-09T02:53:38.200Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://xiaoqiu2020.github.io/tags/JAVA/</loc>
         <lastmod>2020-06-08T07:26:24.177Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/IDM/</loc>
-        <lastmod>2020-06-06T02:41:51.880Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
