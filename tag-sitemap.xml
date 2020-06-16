@@ -3,8 +3,29 @@
 
 
     <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E5%25AF%2586%25E9%2592%25A5/</loc>
+        <lastmod>2020-06-16T01:47:09.645Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/Office/</loc>
+        <lastmod>2020-06-16T01:47:09.645Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://xiaoqiu2020.github.io/tags/%25E5%258A%259E%25E5%2585%25AC/</loc>
-        <lastmod>2020-06-15T04:49:29.208Z</lastmod>
+        <lastmod>2020-06-16T01:47:09.645Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/Win%25E7%25B3%25BB%25E7%25BB%259F/</loc>
+        <lastmod>2020-06-16T01:44:20.767Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -129,20 +150,6 @@
     </url>
 
     <url>
-        <loc>http://xiaoqiu2020.github.io/tags/Win%25E7%25B3%25BB%25E7%25BB%259F/</loc>
-        <lastmod>2020-06-05T09:19:36.389Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E5%25AF%2586%25E9%2592%25A5/</loc>
-        <lastmod>2020-06-05T09:19:36.389Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://xiaoqiu2020.github.io/tags/%25E7%2588%25B1%25E5%25A5%2587%25E8%2589%25BA/</loc>
         <lastmod>2020-06-04T09:24:26.748Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -159,13 +166,6 @@
     <url>
         <loc>http://xiaoqiu2020.github.io/tags/%25E4%25BC%2598%25E9%2585%25B7/</loc>
         <lastmod>2020-06-01T13:19:26.782Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/Office/</loc>
-        <lastmod>2020-05-30T15:15:07.985Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
