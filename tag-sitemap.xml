@@ -3,14 +3,28 @@
 
 
     <url>
-        <loc>http://xiaoqiu2020.github.io/tags/WPS/</loc>
-        <lastmod>2020-06-18T02:23:47.135Z</lastmod>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E5%259B%25BE%25E7%2589%2587%25E5%25A4%2584%25E7%2590%2586/</loc>
+        <lastmod>2020-06-18T09:32:23.830Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://xiaoqiu2020.github.io/tags/Android%25E8%25BD%25AF%25E4%25BB%25B6/</loc>
+        <lastmod>2020-06-18T09:32:23.830Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/%25E8%25BD%25AF%25E4%25BB%25B6%25E8%25B5%2584%25E6%25BA%2590/</loc>
+        <lastmod>2020-06-18T09:32:23.830Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://xiaoqiu2020.github.io/tags/WPS/</loc>
         <lastmod>2020-06-18T02:23:47.135Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -19,20 +33,6 @@
     <url>
         <loc>http://xiaoqiu2020.github.io/tags/%25E5%258A%259E%25E5%2585%25AC/</loc>
         <lastmod>2020-06-18T02:23:47.135Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E8%25BD%25AF%25E4%25BB%25B6%25E8%25B5%2584%25E6%25BA%2590/</loc>
-        <lastmod>2020-06-18T02:23:47.135Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://xiaoqiu2020.github.io/tags/%25E5%259B%25BE%25E7%2589%2587%25E5%25A4%2584%25E7%2590%2586/</loc>
-        <lastmod>2020-06-16T03:35:12.014Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
