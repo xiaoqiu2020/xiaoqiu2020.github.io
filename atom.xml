@@ -5,9 +5,9 @@
   <subtitle>科技才是第一生产力</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://xiaoqiu2020.xyz/"/>
-  <updated>2021-07-12T08:28:31.942Z</updated>
-  <id>http://xiaoqiu2020.xyz/</id>
+  <link href="https://xiaoqiu2020.github.io/"/>
+  <updated>2021-07-12T08:29:48.319Z</updated>
+  <id>https://xiaoqiu2020.github.io/</id>
   
   <author>
     <name>Cheng Liang</name>
@@ -18,31 +18,31 @@
   
   <entry>
     <title>JAVA标识符</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0cvsdi00009wbo7trba9il/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0cvsdi00009wbo7trba9il/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0cvsdi00009wbo7trba9il/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0cvsdi00009wbo7trba9il/</id>
     <published>2021-07-12T08:01:46.000Z</published>
-    <updated>2021-07-12T08:28:31.942Z</updated>
+    <updated>2021-07-12T08:29:48.319Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="一、什么是JAVA标识符"><a href="#一、什么是JAVA标识符" class="headerlink" title="一、什么是JAVA标识符"></a>一、什么是JAVA标识符</h4><p>JAVA标识符就是用于给JAVA程序中 <u>变量</u>、<u>类</u>、<u>方法</u> 等命名的符号！</p><a id="more"></a><br><h6 id="使用标识符需要遵守的几条规则："><a href="#使用标识符需要遵守的几条规则：" class="headerlink" title=" 使用标识符需要遵守的几条规则："></a><font color="red"> <strong>使用标识符需要遵守的几条规则：</strong></font></h6><p>1.标识符可以由字母、数字、下划线( _ )、美元字符（ $ ）组成，但不能包含@、%、空格等其他特殊字符；标识符不能以数字开头，如：123cheng这是不合法的！</p><p>2.标识符不能是JAVA关键字和保留字，但可以包含关键字和保留字。如：void不合法，但是myvoid合法！</p><p>3.标识符是严格区分大小写的！所以要分清Cheng和cheng是两个不同的标识符！</p><p>4.标识符最好可以做到见名知意，能反映其作用！最好使用英语不要使用拼音！</p><br><br>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="什么是JAVA标识符"><a href="#什么是JAVA标识符" class="headerlink" title="什么是JAVA标识符?"></a>什么是JAVA标识符?</h4><p>JAVA标识符就是用于给JAVA程序中 <u>变量</u>、<u>类</u>、<u>方法</u> 等命名的符号！</p><a id="more"></a><br><h4 id="使用标识符需要遵守的几条规则："><a href="#使用标识符需要遵守的几条规则：" class="headerlink" title=" 使用标识符需要遵守的几条规则："></a><font color="red"> <strong>使用标识符需要遵守的几条规则：</strong></font></h4><p>1.标识符可以由字母、数字、下划线( _ )、美元字符（ $ ）组成，但不能包含@、%、空格等其他特殊字符；标识符不能以数字开头，如：123cheng这是不合法的！</p><p>2.标识符不能是JAVA关键字和保留字，但可以包含关键字和保留字。如：void不合法，但是myvoid合法！</p><p>3.标识符是严格区分大小写的！所以要分清Cheng和cheng是两个不同的标识符！</p><p>4.标识符最好可以做到见名知意，能反映其作用！最好使用英语不要使用拼音！</p><br><br>]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;一、什么是JAVA标识符&quot;&gt;&lt;a href=&quot;#一、什么是JAVA标识符&quot; class=&quot;headerlink&quot; title=&quot;一、什么是JAVA标识符&quot;&gt;&lt;/a&gt;一、什么是JAVA标识符&lt;/h4&gt;&lt;p&gt;JAVA标识符就是用于给JAVA程序中 &lt;u&gt;变量&lt;/u&gt;、&lt;u&gt;类&lt;/u&gt;、&lt;u&gt;方法&lt;/u&gt; 等命名的符号！&lt;/p&gt;
+      &lt;h4 id=&quot;什么是JAVA标识符&quot;&gt;&lt;a href=&quot;#什么是JAVA标识符&quot; class=&quot;headerlink&quot; title=&quot;什么是JAVA标识符?&quot;&gt;&lt;/a&gt;什么是JAVA标识符?&lt;/h4&gt;&lt;p&gt;JAVA标识符就是用于给JAVA程序中 &lt;u&gt;变量&lt;/u&gt;、&lt;u&gt;类&lt;/u&gt;、&lt;u&gt;方法&lt;/u&gt; 等命名的符号！&lt;/p&gt;
     
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="JAVA学习" scheme="http://xiaoqiu2020.xyz/tags/JAVA%E5%AD%A6%E4%B9%A0/"/>
+      <category term="JAVA学习" scheme="https://xiaoqiu2020.github.io/tags/JAVA%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>带壳截图Pro高级版</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b68002rrgboc0tt6cdg/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b68002rrgboc0tt6cdg/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b68002rrgboc0tt6cdg/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b68002rrgboc0tt6cdg/</id>
     <published>2020-07-03T08:22:51.000Z</published>
     <updated>2020-07-03T08:34:26.100Z</updated>
     
@@ -55,21 +55,21 @@
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="图片处理" scheme="http://xiaoqiu2020.xyz/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+      <category term="图片处理" scheme="https://xiaoqiu2020.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>滤镜君解锁VIP版</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b6a002vrgbo7wsmd9ap/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b6a002vrgbo7wsmd9ap/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b6a002vrgbo7wsmd9ap/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b6a002vrgbo7wsmd9ap/</id>
     <published>2020-07-02T06:22:23.000Z</published>
     <updated>2020-07-03T08:25:27.003Z</updated>
     
@@ -84,21 +84,21 @@
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="图片处理" scheme="http://xiaoqiu2020.xyz/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+      <category term="图片处理" scheme="https://xiaoqiu2020.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>傲软抠器：只需一步，轻松抠图更换背景！</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b5x0021rgbog3078l0h/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b5x0021rgbog3078l0h/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b5x0021rgbog3078l0h/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b5x0021rgbog3078l0h/</id>
     <published>2020-06-28T08:21:09.000Z</published>
     <updated>2020-06-28T08:28:11.814Z</updated>
     
@@ -113,21 +113,21 @@
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="图片处理" scheme="http://xiaoqiu2020.xyz/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+      <category term="图片处理" scheme="https://xiaoqiu2020.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>卧龙影视</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b62002crgbo8aq4771v/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b62002crgbo8aq4771v/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b62002crgbo8aq4771v/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b62002crgbo8aq4771v/</id>
     <published>2020-06-27T09:42:59.000Z</published>
     <updated>2020-06-28T08:19:30.959Z</updated>
     
@@ -142,21 +142,21 @@
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="追剧神器" scheme="http://xiaoqiu2020.xyz/tags/%E8%BF%BD%E5%89%A7%E7%A5%9E%E5%99%A8/"/>
+      <category term="追剧神器" scheme="https://xiaoqiu2020.github.io/tags/%E8%BF%BD%E5%89%A7%E7%A5%9E%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>Bilibili视频下载工具批量下载UP主专辑</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b4r000lrgbohm36cfw2/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b4r000lrgbohm36cfw2/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b4r000lrgbohm36cfw2/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b4r000lrgbohm36cfw2/</id>
     <published>2020-06-24T10:20:27.000Z</published>
     <updated>2020-06-24T10:31:25.366Z</updated>
     
@@ -171,23 +171,23 @@
     </summary>
     
     
-      <category term="Win软件" scheme="http://xiaoqiu2020.xyz/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Win软件" scheme="https://xiaoqiu2020.github.io/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Win软件" scheme="http://xiaoqiu2020.xyz/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Win软件" scheme="https://xiaoqiu2020.github.io/tags/Win%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="哔哩哔哩" scheme="http://xiaoqiu2020.xyz/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/"/>
+      <category term="哔哩哔哩" scheme="https://xiaoqiu2020.github.io/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/"/>
     
-      <category term="视频解析" scheme="http://xiaoqiu2020.xyz/tags/%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90/"/>
+      <category term="视频解析" scheme="https://xiaoqiu2020.github.io/tags/%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90/"/>
     
   </entry>
   
   <entry>
     <title>哔哩哔哩去广告无限制</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b66002lrgboggarep7v/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b66002lrgboggarep7v/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b66002lrgboggarep7v/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b66002lrgboggarep7v/</id>
     <published>2020-06-24T09:11:56.000Z</published>
     <updated>2020-06-27T09:55:10.282Z</updated>
     
@@ -202,19 +202,19 @@
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>免费在线自助开通 Microsoft Office E3 账号（5TB Onedrive + 桌面版 Office）</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b5y0024rgbocl6q491t/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b5y0024rgbocl6q491t/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b5y0024rgbocl6q491t/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b5y0024rgbocl6q491t/</id>
     <published>2020-06-23T12:03:44.000Z</published>
     <updated>2020-06-23T12:14:04.555Z</updated>
     
@@ -227,23 +227,23 @@
     </summary>
     
     
-      <category term="Win软件" scheme="http://xiaoqiu2020.xyz/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Win软件" scheme="https://xiaoqiu2020.github.io/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="小众网站" scheme="http://xiaoqiu2020.xyz/categories/%E5%B0%8F%E4%BC%97%E7%BD%91%E7%AB%99/"/>
+      <category term="小众网站" scheme="https://xiaoqiu2020.github.io/categories/%E5%B0%8F%E4%BC%97%E7%BD%91%E7%AB%99/"/>
     
     
-      <category term="办公" scheme="http://xiaoqiu2020.xyz/tags/%E5%8A%9E%E5%85%AC/"/>
+      <category term="办公" scheme="https://xiaoqiu2020.github.io/tags/%E5%8A%9E%E5%85%AC/"/>
     
-      <category term="Office" scheme="http://xiaoqiu2020.xyz/tags/Office/"/>
+      <category term="Office" scheme="https://xiaoqiu2020.github.io/tags/Office/"/>
     
-      <category term="正版" scheme="http://xiaoqiu2020.xyz/tags/%E6%AD%A3%E7%89%88/"/>
+      <category term="正版" scheme="https://xiaoqiu2020.github.io/tags/%E6%AD%A3%E7%89%88/"/>
     
   </entry>
   
   <entry>
     <title>吐血福利！速来领！5TB Onedrive + 桌面版office365 + win10企业版 正版激活授权</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b64002frgbo9xv73r1c/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b64002frgbo9xv73r1c/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b64002frgbo9xv73r1c/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b64002frgbo9xv73r1c/</id>
     <published>2020-06-23T11:55:22.000Z</published>
     <updated>2020-06-23T12:05:29.474Z</updated>
     
@@ -256,27 +256,27 @@
     </summary>
     
     
-      <category term="Win软件" scheme="http://xiaoqiu2020.xyz/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Win软件" scheme="https://xiaoqiu2020.github.io/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="小众网站" scheme="http://xiaoqiu2020.xyz/categories/%E5%B0%8F%E4%BC%97%E7%BD%91%E7%AB%99/"/>
+      <category term="小众网站" scheme="https://xiaoqiu2020.github.io/categories/%E5%B0%8F%E4%BC%97%E7%BD%91%E7%AB%99/"/>
     
     
-      <category term="办公" scheme="http://xiaoqiu2020.xyz/tags/%E5%8A%9E%E5%85%AC/"/>
+      <category term="办公" scheme="https://xiaoqiu2020.github.io/tags/%E5%8A%9E%E5%85%AC/"/>
     
-      <category term="Office" scheme="http://xiaoqiu2020.xyz/tags/Office/"/>
+      <category term="Office" scheme="https://xiaoqiu2020.github.io/tags/Office/"/>
     
-      <category term="正版" scheme="http://xiaoqiu2020.xyz/tags/%E6%AD%A3%E7%89%88/"/>
+      <category term="正版" scheme="https://xiaoqiu2020.github.io/tags/%E6%AD%A3%E7%89%88/"/>
     
-      <category term="Win10系统" scheme="http://xiaoqiu2020.xyz/tags/Win10%E7%B3%BB%E7%BB%9F/"/>
+      <category term="Win10系统" scheme="https://xiaoqiu2020.github.io/tags/Win10%E7%B3%BB%E7%BB%9F/"/>
     
-      <category term="Win" scheme="http://xiaoqiu2020.xyz/tags/Win/"/>
+      <category term="Win" scheme="https://xiaoqiu2020.github.io/tags/Win/"/>
     
   </entry>
   
   <entry>
     <title>Xmind破解版</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b65002irgbo5vuy6bgl/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b65002irgbo5vuy6bgl/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b65002irgbo5vuy6bgl/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b65002irgbo5vuy6bgl/</id>
     <published>2020-06-22T03:48:38.000Z</published>
     <updated>2020-06-22T04:39:25.328Z</updated>
     
@@ -291,23 +291,23 @@
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="办公" scheme="http://xiaoqiu2020.xyz/tags/%E5%8A%9E%E5%85%AC/"/>
+      <category term="办公" scheme="https://xiaoqiu2020.github.io/tags/%E5%8A%9E%E5%85%AC/"/>
     
-      <category term="思维导图" scheme="http://xiaoqiu2020.xyz/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/"/>
+      <category term="思维导图" scheme="https://xiaoqiu2020.github.io/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/"/>
     
   </entry>
   
   <entry>
     <title>文库社下载百度文档</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b6b002yrgbo42ym3wi1/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b6b002yrgbo42ym3wi1/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b6b002yrgbo42ym3wi1/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b6b002yrgbo42ym3wi1/</id>
     <published>2020-06-21T06:12:14.000Z</published>
     <updated>2020-06-21T06:17:50.565Z</updated>
     
@@ -323,19 +323,19 @@
     </summary>
     
     
-      <category term="小众网站" scheme="http://xiaoqiu2020.xyz/categories/%E5%B0%8F%E4%BC%97%E7%BD%91%E7%AB%99/"/>
+      <category term="小众网站" scheme="https://xiaoqiu2020.github.io/categories/%E5%B0%8F%E4%BC%97%E7%BD%91%E7%AB%99/"/>
     
     
-      <category term="百度文库" scheme="http://xiaoqiu2020.xyz/tags/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93/"/>
+      <category term="百度文库" scheme="https://xiaoqiu2020.github.io/tags/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93/"/>
     
-      <category term="小众网站" scheme="http://xiaoqiu2020.xyz/tags/%E5%B0%8F%E4%BC%97%E7%BD%91%E7%AB%99/"/>
+      <category term="小众网站" scheme="https://xiaoqiu2020.github.io/tags/%E5%B0%8F%E4%BC%97%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
   <entry>
     <title>“锐普PPT超神课8节课”</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b5v001zrgbo6v1s01g7/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b5v001zrgbo6v1s01g7/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b5v001zrgbo6v1s01g7/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b5v001zrgbo6v1s01g7/</id>
     <published>2020-06-20T10:53:45.000Z</published>
     <updated>2020-06-20T11:17:46.696Z</updated>
     
@@ -350,21 +350,21 @@
     </summary>
     
     
-      <category term="教程" scheme="http://xiaoqiu2020.xyz/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="https://xiaoqiu2020.github.io/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="办公" scheme="http://xiaoqiu2020.xyz/tags/%E5%8A%9E%E5%85%AC/"/>
+      <category term="办公" scheme="https://xiaoqiu2020.github.io/tags/%E5%8A%9E%E5%85%AC/"/>
     
-      <category term="PPT" scheme="http://xiaoqiu2020.xyz/tags/PPT/"/>
+      <category term="PPT" scheme="https://xiaoqiu2020.github.io/tags/PPT/"/>
     
-      <category term="教程" scheme="http://xiaoqiu2020.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="https://xiaoqiu2020.github.io/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Adobe Lightroom功能强大的图片编辑器</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b4k000drgboh8suav7l/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b4k000drgboh8suav7l/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b4k000drgboh8suav7l/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b4k000drgboh8suav7l/</id>
     <published>2020-06-20T06:09:49.000Z</published>
     <updated>2020-07-02T06:31:32.640Z</updated>
     
@@ -379,23 +379,23 @@
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="Adobe" scheme="http://xiaoqiu2020.xyz/tags/Adobe/"/>
+      <category term="Adobe" scheme="https://xiaoqiu2020.github.io/tags/Adobe/"/>
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="图片处理" scheme="http://xiaoqiu2020.xyz/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+      <category term="图片处理" scheme="https://xiaoqiu2020.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>Photoshop Camera最强拍照软件</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b5k001brgbobmebetdc/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b5k001brgbobmebetdc/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b5k001brgbobmebetdc/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b5k001brgbobmebetdc/</id>
     <published>2020-06-19T03:52:12.000Z</published>
     <updated>2020-06-19T04:19:09.093Z</updated>
     
@@ -410,23 +410,23 @@
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="Adobe" scheme="http://xiaoqiu2020.xyz/tags/Adobe/"/>
+      <category term="Adobe" scheme="https://xiaoqiu2020.github.io/tags/Adobe/"/>
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="图片处理" scheme="http://xiaoqiu2020.xyz/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+      <category term="图片处理" scheme="https://xiaoqiu2020.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>Photoshop Express内购解锁版</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b5c000yrgbo92hu09cz/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b5c000yrgbo92hu09cz/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b5c000yrgbo92hu09cz/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b5c000yrgbo92hu09cz/</id>
     <published>2020-06-18T08:12:14.000Z</published>
     <updated>2020-06-19T03:53:27.751Z</updated>
     
@@ -441,23 +441,23 @@
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="Adobe" scheme="http://xiaoqiu2020.xyz/tags/Adobe/"/>
+      <category term="Adobe" scheme="https://xiaoqiu2020.github.io/tags/Adobe/"/>
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="图片处理" scheme="http://xiaoqiu2020.xyz/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+      <category term="图片处理" scheme="https://xiaoqiu2020.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>WPS去广告高级版</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b5m001hrgboe2h97d2b/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b5m001hrgboe2h97d2b/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b5m001hrgboe2h97d2b/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b5m001hrgboe2h97d2b/</id>
     <published>2020-06-18T01:41:34.000Z</published>
     <updated>2020-06-18T02:23:47.135Z</updated>
     
@@ -472,23 +472,23 @@
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="办公" scheme="http://xiaoqiu2020.xyz/tags/%E5%8A%9E%E5%85%AC/"/>
+      <category term="办公" scheme="https://xiaoqiu2020.github.io/tags/%E5%8A%9E%E5%85%AC/"/>
     
-      <category term="WPS" scheme="http://xiaoqiu2020.xyz/tags/WPS/"/>
+      <category term="WPS" scheme="https://xiaoqiu2020.github.io/tags/WPS/"/>
     
   </entry>
   
   <entry>
     <title>VSCO全滤镜破解版</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b5h0016rgboavds3hi7/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b5h0016rgboavds3hi7/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b5h0016rgboavds3hi7/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b5h0016rgboavds3hi7/</id>
     <published>2020-06-16T03:17:15.000Z</published>
     <updated>2020-06-16T03:35:12.014Z</updated>
     
@@ -503,21 +503,21 @@
     </summary>
     
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/categories/Android%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/tags/Android%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Android软件" scheme="https://xiaoqiu2020.github.io/tags/Android%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="图片处理" scheme="http://xiaoqiu2020.xyz/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+      <category term="图片处理" scheme="https://xiaoqiu2020.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>Office密钥0616更新</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b5g0012rgbo5igy8ayf/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b5g0012rgbo5igy8ayf/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b5g0012rgbo5igy8ayf/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b5g0012rgbo5igy8ayf/</id>
     <published>2020-06-16T01:45:33.000Z</published>
     <updated>2020-06-23T12:06:40.315Z</updated>
     
@@ -530,23 +530,23 @@
     </summary>
     
     
-      <category term="激活密钥" scheme="http://xiaoqiu2020.xyz/categories/%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5/"/>
+      <category term="激活密钥" scheme="https://xiaoqiu2020.github.io/categories/%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5/"/>
     
     
-      <category term="办公" scheme="http://xiaoqiu2020.xyz/tags/%E5%8A%9E%E5%85%AC/"/>
+      <category term="办公" scheme="https://xiaoqiu2020.github.io/tags/%E5%8A%9E%E5%85%AC/"/>
     
-      <category term="Office" scheme="http://xiaoqiu2020.xyz/tags/Office/"/>
+      <category term="Office" scheme="https://xiaoqiu2020.github.io/tags/Office/"/>
     
-      <category term="密钥" scheme="http://xiaoqiu2020.xyz/tags/%E5%AF%86%E9%92%A5/"/>
+      <category term="密钥" scheme="https://xiaoqiu2020.github.io/tags/%E5%AF%86%E9%92%A5/"/>
     
-      <category term="正版" scheme="http://xiaoqiu2020.xyz/tags/%E6%AD%A3%E7%89%88/"/>
+      <category term="正版" scheme="https://xiaoqiu2020.github.io/tags/%E6%AD%A3%E7%89%88/"/>
     
   </entry>
   
   <entry>
     <title>Win10密钥0616更新</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b5l001frgbo2on1dcbc/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b5l001frgbo2on1dcbc/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b5l001frgbo2on1dcbc/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b5l001frgbo2on1dcbc/</id>
     <published>2020-06-16T01:42:32.000Z</published>
     <updated>2020-06-23T12:06:08.153Z</updated>
     
@@ -559,21 +559,21 @@
     </summary>
     
     
-      <category term="激活密钥" scheme="http://xiaoqiu2020.xyz/categories/%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5/"/>
+      <category term="激活密钥" scheme="https://xiaoqiu2020.github.io/categories/%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5/"/>
     
     
-      <category term="密钥" scheme="http://xiaoqiu2020.xyz/tags/%E5%AF%86%E9%92%A5/"/>
+      <category term="密钥" scheme="https://xiaoqiu2020.github.io/tags/%E5%AF%86%E9%92%A5/"/>
     
-      <category term="正版" scheme="http://xiaoqiu2020.xyz/tags/%E6%AD%A3%E7%89%88/"/>
+      <category term="正版" scheme="https://xiaoqiu2020.github.io/tags/%E6%AD%A3%E7%89%88/"/>
     
-      <category term="Win系统" scheme="http://xiaoqiu2020.xyz/tags/Win%E7%B3%BB%E7%BB%9F/"/>
+      <category term="Win系统" scheme="https://xiaoqiu2020.github.io/tags/Win%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
   <entry>
     <title>亿寻百度网盘不限速下载</title>
-    <link href="http://xiaoqiu2020.xyz/ckr0c1b600027rgbofoyig286/"/>
-    <id>http://xiaoqiu2020.xyz/ckr0c1b600027rgbofoyig286/</id>
+    <link href="https://xiaoqiu2020.github.io/ckr0c1b600027rgbofoyig286/"/>
+    <id>https://xiaoqiu2020.github.io/ckr0c1b600027rgbofoyig286/</id>
     <published>2020-06-15T03:32:11.000Z</published>
     <updated>2020-06-15T04:49:29.208Z</updated>
     
@@ -588,16 +588,16 @@
     </summary>
     
     
-      <category term="Win软件" scheme="http://xiaoqiu2020.xyz/categories/Win%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Win软件" scheme="https://xiaoqiu2020.github.io/categories/Win%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="软件资源" scheme="http://xiaoqiu2020.xyz/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+      <category term="软件资源" scheme="https://xiaoqiu2020.github.io/tags/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
     
-      <category term="Win软件" scheme="http://xiaoqiu2020.xyz/tags/Win%E8%BD%AF%E4%BB%B6/"/>
+      <category term="Win软件" scheme="https://xiaoqiu2020.github.io/tags/Win%E8%BD%AF%E4%BB%B6/"/>
     
-      <category term="百度网盘" scheme="http://xiaoqiu2020.xyz/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/"/>
+      <category term="百度网盘" scheme="https://xiaoqiu2020.github.io/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/"/>
     
-      <category term="办公" scheme="http://xiaoqiu2020.xyz/tags/%E5%8A%9E%E5%85%AC/"/>
+      <category term="办公" scheme="https://xiaoqiu2020.github.io/tags/%E5%8A%9E%E5%85%AC/"/>
     
   </entry>
   

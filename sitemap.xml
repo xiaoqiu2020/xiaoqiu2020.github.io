@@ -3,23 +3,23 @@
 
 
     <sitemap>
-        <loc>http://xiaoqiu2020.xyz/post-sitemap.xml</loc>
-        <lastmod>2021-07-12T08:28:31.942Z</lastmod>
+        <loc>https://xiaoqiu2020.github.io/post-sitemap.xml</loc>
+        <lastmod>2021-07-12T08:29:48.319Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://xiaoqiu2020.xyz/page-sitemap.xml</loc>
+        <loc>https://xiaoqiu2020.github.io/page-sitemap.xml</loc>
         <lastmod>2020-06-29T02:43:31.421Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://xiaoqiu2020.xyz/category-sitemap.xml</loc>
-        <lastmod>2021-07-12T08:28:31.942Z</lastmod>
+        <loc>https://xiaoqiu2020.github.io/category-sitemap.xml</loc>
+        <lastmod>2021-07-12T08:29:48.319Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://xiaoqiu2020.xyz/tag-sitemap.xml</loc>
-        <lastmod>2021-07-12T08:28:31.942Z</lastmod>
+        <loc>https://xiaoqiu2020.github.io/tag-sitemap.xml</loc>
+        <lastmod>2021-07-12T08:29:48.319Z</lastmod>
     </sitemap>
 
 </sitemapindex>
