@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaoqiu2020.xyz/"/>
-  <updated>2020-07-03T08:34:26.100Z</updated>
+  <updated>2021-07-12T08:28:31.942Z</updated>
   <id>http://xiaoqiu2020.xyz/</id>
   
   <author>
@@ -17,13 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>JAVA标识符</title>
+    <link href="http://xiaoqiu2020.xyz/ckr0cvsdi00009wbo7trba9il/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0cvsdi00009wbo7trba9il/</id>
+    <published>2021-07-12T08:01:46.000Z</published>
+    <updated>2021-07-12T08:28:31.942Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="一、什么是JAVA标识符"><a href="#一、什么是JAVA标识符" class="headerlink" title="一、什么是JAVA标识符"></a>一、什么是JAVA标识符</h4><p>JAVA标识符就是用于给JAVA程序中 <u>变量</u>、<u>类</u>、<u>方法</u> 等命名的符号！</p><a id="more"></a><br><h6 id="使用标识符需要遵守的几条规则："><a href="#使用标识符需要遵守的几条规则：" class="headerlink" title=" 使用标识符需要遵守的几条规则："></a><font color="red"> <strong>使用标识符需要遵守的几条规则：</strong></font></h6><p>1.标识符可以由字母、数字、下划线( _ )、美元字符（ $ ）组成，但不能包含@、%、空格等其他特殊字符；标识符不能以数字开头，如：123cheng这是不合法的！</p><p>2.标识符不能是JAVA关键字和保留字，但可以包含关键字和保留字。如：void不合法，但是myvoid合法！</p><p>3.标识符是严格区分大小写的！所以要分清Cheng和cheng是两个不同的标识符！</p><p>4.标识符最好可以做到见名知意，能反映其作用！最好使用英语不要使用拼音！</p><br><br>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;一、什么是JAVA标识符&quot;&gt;&lt;a href=&quot;#一、什么是JAVA标识符&quot; class=&quot;headerlink&quot; title=&quot;一、什么是JAVA标识符&quot;&gt;&lt;/a&gt;一、什么是JAVA标识符&lt;/h4&gt;&lt;p&gt;JAVA标识符就是用于给JAVA程序中 &lt;u&gt;变量&lt;/u&gt;、&lt;u&gt;类&lt;/u&gt;、&lt;u&gt;方法&lt;/u&gt; 等命名的符号！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Android软件" scheme="http://xiaoqiu2020.xyz/categories/Android%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+      <category term="JAVA学习" scheme="http://xiaoqiu2020.xyz/tags/JAVA%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>带壳截图Pro高级版</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff87002tfcboeyv66mr8/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff87002tfcboeyv66mr8/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b68002rrgboc0tt6cdg/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b68002rrgboc0tt6cdg/</id>
     <published>2020-07-03T08:22:51.000Z</published>
     <updated>2020-07-03T08:34:26.100Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>以前截图都是直接截全屏就行了，后来大家的要求越来越高，如果截屏能带着手机壳似乎就显得更加高端了，在没有app做这件事的之前，很多还是使用ps来把手机壳与截图拼合在一起，现在用这个带壳截图Pro就就非常方便了。</p><a id="more"></a><br><h4 id="应用介绍"><a href="#应用介绍" class="headerlink" title="应用介绍"></a>应用介绍</h4><p>1、支持背景自动取色<br>2、支持背景高斯模糊<br>3、支持自定义背景颜色<br>4、支持监听系统截图进行自动带壳截图<br>5、支持导入第三方模块包(含作者适配模块与网友上传模块)<br>6、支持导入自定义模块(例如相框、手机模块等等)<br>7、支持编辑已经适配模块<br>8、支持普通生成模式/拉伸模式<br>9、支持修改生成图片路径<br>……<br><br></p><p><img src="/ckjcoff87002tfcboeyv66mr8/1.png" alt></p><br><h4 id="官方更新"><a href="#官方更新" class="headerlink" title="官方更新"></a>官方更新</h4><p>修复 生成通知第一次失效<br>适配 7.0特性-通知栏快捷按钮(暂停自动生成)<br>适配 7.0特性-桌面图标长按快捷菜单<br>优化 关于、用户中心界面UI<br>适配 预览模块界面右上角选择按钮<br>适配 预览模块界面直接导图套壳</p><br><h4 id="特殊版介绍"><a href="#特殊版介绍" class="headerlink" title="特殊版介绍"></a>特殊版介绍</h4><p>基于官方版本修改，解除VIP限制！</p><br><br><details><summary>点击查看 带壳截图Pro特殊版 领取方式</summary><pre>微信扫描下方二维码在微信公众号后台回复【带壳截图】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbx6rr8g001bbcvf24km212i/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>以前截图都是直接截全屏就行了，后来大家的要求越来越高，如果截屏能带着手机壳似乎就显得更加高端了，在没有app做这件事的之前，很多还是使用ps来把手机壳与截图拼合在一起，现在用这个带壳截图Pro就就非常方便了。</p><a id="more"></a><br><h4 id="应用介绍"><a href="#应用介绍" class="headerlink" title="应用介绍"></a>应用介绍</h4><p>1、支持背景自动取色<br>2、支持背景高斯模糊<br>3、支持自定义背景颜色<br>4、支持监听系统截图进行自动带壳截图<br>5、支持导入第三方模块包(含作者适配模块与网友上传模块)<br>6、支持导入自定义模块(例如相框、手机模块等等)<br>7、支持编辑已经适配模块<br>8、支持普通生成模式/拉伸模式<br>9、支持修改生成图片路径<br>……<br><br></p><p><img src="/ckr0c1b68002rrgboc0tt6cdg/1.png" alt></p><br><h4 id="官方更新"><a href="#官方更新" class="headerlink" title="官方更新"></a>官方更新</h4><p>修复 生成通知第一次失效<br>适配 7.0特性-通知栏快捷按钮(暂停自动生成)<br>适配 7.0特性-桌面图标长按快捷菜单<br>优化 关于、用户中心界面UI<br>适配 预览模块界面右上角选择按钮<br>适配 预览模块界面直接导图套壳</p><br><h4 id="特殊版介绍"><a href="#特殊版介绍" class="headerlink" title="特殊版介绍"></a>特殊版介绍</h4><p>基于官方版本修改，解除VIP限制！</p><br><br><details><summary>点击查看 带壳截图Pro特殊版 领取方式</summary><pre>微信扫描下方二维码在微信公众号后台回复【带壳截图】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbx6rr8g001bbcvf24km212i/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
     
     <summary type="html">
     
@@ -45,12 +68,12 @@
   
   <entry>
     <title>滤镜君解锁VIP版</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff8d0034fcboernw5ckk/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff8d0034fcboernw5ckk/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b6a002vrgbo7wsmd9ap/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b6a002vrgbo7wsmd9ap/</id>
     <published>2020-07-02T06:22:23.000Z</published>
     <updated>2020-07-03T08:25:27.003Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>滤镜君是一款强大易用的滤镜照片编辑器。700+款滤镜，70+种主题。下载滤镜并导入到Lr中，创造出属于你的大片风格。</p></blockquote><a id="more"></a><br><h4 id="应用介绍"><a href="#应用介绍" class="headerlink" title="应用介绍"></a>应用介绍</h4><p>【原创优质预设】<br>为你提供超过700+个高级滤镜。它提供复古，美食，电影，网红日系，ins风，北欧极简，高甜日韩，青春元气少女心，莫兰迪色，奶油灰，青橙色调，粉色马卡龙，文艺小清新，赛博朋克等。</p><p>【精美特效添加】<br>几十种独特的超梦幻叠加特效贴纸来为你的照片营造氛围，阳光，镜头眩光，胶片漏光，彩虹，雨雪，胶片，树影，拍立得，录像带，几何光斑，闪闪星空。</p><p>【自定义滤镜】<br>创作、保存你的自定义组合滤镜，进行个性化定制，只需一键即可再次添加。打造强大好用的图片编辑滤镜调色应用。</p><p>【高级专业编辑工具】<br>滤镜君支持14种高级参数编辑调节工具：HSL，饱和度，褪色等，释放用户创意。</p><br><p><img src="/ckjcoff8d0034fcboernw5ckk/1.png" alt></p><br><h4 id="新版特性"><a href="#新版特性" class="headerlink" title="新版特性"></a>新版特性</h4><p>暗房功能现已可用！完全定制的照片和视频库，可进行批量编辑。您可以一次复制并粘贴多张照片的设置。更多功能即将到来！<br>添加了宠物预设包。</p><br><h4 id="特殊版本"><a href="#特殊版本" class="headerlink" title="特殊版本"></a>特殊版本</h4><p>解锁VIP特权，可以完整使用所有功能！</p><br><br><details><summary>点击查看 滤镜君特殊版 领取方式</summary><pre>微信扫描下方二维码在微信公众号后台回复【滤镜君】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbx6rr8g001bbcvf24km212i/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>滤镜君是一款强大易用的滤镜照片编辑器。700+款滤镜，70+种主题。下载滤镜并导入到Lr中，创造出属于你的大片风格。</p></blockquote><a id="more"></a><br><h4 id="应用介绍"><a href="#应用介绍" class="headerlink" title="应用介绍"></a>应用介绍</h4><p>【原创优质预设】<br>为你提供超过700+个高级滤镜。它提供复古，美食，电影，网红日系，ins风，北欧极简，高甜日韩，青春元气少女心，莫兰迪色，奶油灰，青橙色调，粉色马卡龙，文艺小清新，赛博朋克等。</p><p>【精美特效添加】<br>几十种独特的超梦幻叠加特效贴纸来为你的照片营造氛围，阳光，镜头眩光，胶片漏光，彩虹，雨雪，胶片，树影，拍立得，录像带，几何光斑，闪闪星空。</p><p>【自定义滤镜】<br>创作、保存你的自定义组合滤镜，进行个性化定制，只需一键即可再次添加。打造强大好用的图片编辑滤镜调色应用。</p><p>【高级专业编辑工具】<br>滤镜君支持14种高级参数编辑调节工具：HSL，饱和度，褪色等，释放用户创意。</p><br><p><img src="/ckr0c1b6a002vrgbo7wsmd9ap/1.png" alt></p><br><h4 id="新版特性"><a href="#新版特性" class="headerlink" title="新版特性"></a>新版特性</h4><p>暗房功能现已可用！完全定制的照片和视频库，可进行批量编辑。您可以一次复制并粘贴多张照片的设置。更多功能即将到来！<br>添加了宠物预设包。</p><br><h4 id="特殊版本"><a href="#特殊版本" class="headerlink" title="特殊版本"></a>特殊版本</h4><p>解锁VIP特权，可以完整使用所有功能！</p><br><br><details><summary>点击查看 滤镜君特殊版 领取方式</summary><pre>微信扫描下方二维码在微信公众号后台回复【滤镜君】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbx6rr8g001bbcvf24km212i/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
     
     <summary type="html">
     
@@ -74,12 +97,12 @@
   
   <entry>
     <title>傲软抠器：只需一步，轻松抠图更换背景！</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff7r0028fcboaurpdqll/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff7r0028fcboaurpdqll/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b5x0021rgbog3078l0h/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b5x0021rgbog3078l0h/</id>
     <published>2020-06-28T08:21:09.000Z</published>
     <updated>2020-06-28T08:28:11.814Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>傲软抠图是深圳市网旭科技有限公司 一款专为抠图打造的智能抠图工具，适用于电脑端 以及手机端，它可以自动识别图片中的人物或物体，并从原图中抠出透明背景图，也可以替换背景。只需要简单的三步：上传照片——等待AI自动识别物体范围——得到透明背景的照片，简单几步，提升创造力。</p></blockquote><a id="more"></a><br><p>傲软抠图一共有3种模式：<strong>人物识别</strong>、<strong>物品识别</strong>、<strong>图章识别</strong></p><p>PS大家都会，能一键解决的事何必要去打开PS🥂</p><br><h3 id="人像抠图，快速去除背景"><a href="#人像抠图，快速去除背景" class="headerlink" title="人像抠图，快速去除背景"></a>人像抠图，快速去除背景</h3><p>传统的PhotoShop抠图操作复杂，费时费力，不适合新手或小白。使用傲软抠图，操作非常简单，只需上传图片，它会自动识别人像或其他区域，轻松将人像或图像与背景层分离，几秒即可生成一张干净的透明背景图片</p><p><img src="/ckjcoff7r0028fcboaurpdqll/1.png" alt></p><br><h3 id="精准识别，一键更换背景"><a href="#精准识别，一键更换背景" class="headerlink" title="精准识别，一键更换背景"></a>精准识别，一键更换背景</h3><p>傲软抠图采用AI人工智能技术，无论是证件照还是各类图片，它都能精准识别保留区域，完成基础抠图操作的同时，也支持更换图片底色，得到一张高质量的证件照，让图片更换底色如此简单方便！</p><p><img src="/ckjcoff7r0028fcboaurpdqll/2.png" alt></p><br><h3 id="应用场景多样，提升效率"><a href="#应用场景多样，提升效率" class="headerlink" title="应用场景多样，提升效率"></a>应用场景多样，提升效率</h3><p>无论是制作证件照、社交照、商品图还是广告图，傲软抠图都能为你提供所需模板。它具有庞大的模板库，定期更新精品模板，适用于各种用途。无论你是设计师，营销人员，媒体，开发者，摄影师等，它都能帮你快速解决抠图问题，提升工作效率！</p><p><img src="/ckjcoff7r0028fcboaurpdqll/3.png" alt></p><br><h3 id="特殊版"><a href="#特殊版" class="headerlink" title="特殊版"></a><strong>特殊版</strong></h3><p>登录即显示剩余次数：1638，实际上是<strong>无限制</strong>，使用次数不会减！</p><p><img src="/ckjcoff7r0028fcboaurpdqll/4.png" alt></p><br><details><summary>点击查看傲软抠图领取方法</summary><pre>微信扫描下方二维码在公众号后台回复【傲软抠图】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbk65gyq00192gvf6q9u7z7h/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>傲软抠图是深圳市网旭科技有限公司 一款专为抠图打造的智能抠图工具，适用于电脑端 以及手机端，它可以自动识别图片中的人物或物体，并从原图中抠出透明背景图，也可以替换背景。只需要简单的三步：上传照片——等待AI自动识别物体范围——得到透明背景的照片，简单几步，提升创造力。</p></blockquote><a id="more"></a><br><p>傲软抠图一共有3种模式：<strong>人物识别</strong>、<strong>物品识别</strong>、<strong>图章识别</strong></p><p>PS大家都会，能一键解决的事何必要去打开PS🥂</p><br><h3 id="人像抠图，快速去除背景"><a href="#人像抠图，快速去除背景" class="headerlink" title="人像抠图，快速去除背景"></a>人像抠图，快速去除背景</h3><p>传统的PhotoShop抠图操作复杂，费时费力，不适合新手或小白。使用傲软抠图，操作非常简单，只需上传图片，它会自动识别人像或其他区域，轻松将人像或图像与背景层分离，几秒即可生成一张干净的透明背景图片</p><p><img src="/ckr0c1b5x0021rgbog3078l0h/1.png" alt></p><br><h3 id="精准识别，一键更换背景"><a href="#精准识别，一键更换背景" class="headerlink" title="精准识别，一键更换背景"></a>精准识别，一键更换背景</h3><p>傲软抠图采用AI人工智能技术，无论是证件照还是各类图片，它都能精准识别保留区域，完成基础抠图操作的同时，也支持更换图片底色，得到一张高质量的证件照，让图片更换底色如此简单方便！</p><p><img src="/ckr0c1b5x0021rgbog3078l0h/2.png" alt></p><br><h3 id="应用场景多样，提升效率"><a href="#应用场景多样，提升效率" class="headerlink" title="应用场景多样，提升效率"></a>应用场景多样，提升效率</h3><p>无论是制作证件照、社交照、商品图还是广告图，傲软抠图都能为你提供所需模板。它具有庞大的模板库，定期更新精品模板，适用于各种用途。无论你是设计师，营销人员，媒体，开发者，摄影师等，它都能帮你快速解决抠图问题，提升工作效率！</p><p><img src="/ckr0c1b5x0021rgbog3078l0h/3.png" alt></p><br><h3 id="特殊版"><a href="#特殊版" class="headerlink" title="特殊版"></a><strong>特殊版</strong></h3><p>登录即显示剩余次数：1638，实际上是<strong>无限制</strong>，使用次数不会减！</p><p><img src="/ckr0c1b5x0021rgbog3078l0h/4.png" alt></p><br><details><summary>点击查看傲软抠图领取方法</summary><pre>微信扫描下方二维码在公众号后台回复【傲软抠图】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbk65gyq00192gvf6q9u7z7h/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
     
     <summary type="html">
     
@@ -103,12 +126,12 @@
   
   <entry>
     <title>卧龙影视</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff7s002bfcboci8x6pum/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff7s002bfcboci8x6pum/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b62002crgbo8aq4771v/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b62002crgbo8aq4771v/</id>
     <published>2020-06-27T09:42:59.000Z</published>
     <updated>2020-06-28T08:19:30.959Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>卧龙影视app，安卓影视资源应用，挖掘各大热门视频网站影视内容片源，免费在线观看及下载全网高清影视资源、院线大片、付费电影、HD高清资源。该应用搜索检索出来的片源，大部分都为无水印高清画质。</p></blockquote><a id="more"></a><h3 id="新版特性"><a href="#新版特性" class="headerlink" title="新版特性"></a>新版特性</h3><p>1.优化视频播放速度<br>2.修复下载影片异常问题<br>3.修复已知bug</p><br><p>2020.05.19 v2.0.6<br>1.优化视频播放卡顿问题<br>2.投屏体验新升级，功能使用更顺手<br>3.修复已知bug，追剧观影流畅加倍</p><p><img src="/ckjcoff7s002bfcboci8x6pum/1.png" alt></p><br><details><summary>点击查看卧龙影视领取方法</summary><pre>微信扫描下方二维码在公众号后台回复【卧龙】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbk65gyq00192gvf6q9u7z7h/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>卧龙影视app，安卓影视资源应用，挖掘各大热门视频网站影视内容片源，免费在线观看及下载全网高清影视资源、院线大片、付费电影、HD高清资源。该应用搜索检索出来的片源，大部分都为无水印高清画质。</p></blockquote><a id="more"></a><h3 id="新版特性"><a href="#新版特性" class="headerlink" title="新版特性"></a>新版特性</h3><p>1.优化视频播放速度<br>2.修复下载影片异常问题<br>3.修复已知bug</p><br><p>2020.05.19 v2.0.6<br>1.优化视频播放卡顿问题<br>2.投屏体验新升级，功能使用更顺手<br>3.修复已知bug，追剧观影流畅加倍</p><p><img src="/ckr0c1b62002crgbo8aq4771v/1.png" alt></p><br><details><summary>点击查看卧龙影视领取方法</summary><pre>微信扫描下方二维码在公众号后台回复【卧龙】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbk65gyq00192gvf6q9u7z7h/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
     
     <summary type="html">
     
@@ -132,12 +155,12 @@
   
   <entry>
     <title>Bilibili视频下载工具批量下载UP主专辑</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff70000mfcbo49yed2e1/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff70000mfcbo49yed2e1/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b4r000lrgbohm36cfw2/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b4r000lrgbohm36cfw2/</id>
     <published>2020-06-24T10:20:27.000Z</published>
     <updated>2020-06-24T10:31:25.366Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>免费的Bilibili视频下载工具，B站视频下载软件，解析视频地址一键下载，可选解析清晰度，支持获取Up主视频专辑列表批量下载，支持多线程下载，支持分段视频下载后自动合并，支持下载视频弹幕XML文件。</p></blockquote><a id="more"></a><br><h3 id="使用方法："><a href="#使用方法：" class="headerlink" title="使用方法："></a><strong>使用方法：</strong></h3><p><img src="https://mmbiz.qpic.cn/mmbiz_png/rD6NJ7LnHchcL170PRf6T1JelcKcqwKwibRaNvG1ucroU13zPL6SZ5Im3D3qPTW9lVkdr9HkiaCIXDic5OAMYLIZg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt></p><p>还可以输入UP主ID（空间号）进行批量下载！</p><p><img src="/ckjcoff70000mfcbo49yed2e1/1.jpg" alt></p><br><h3 id="提示："><a href="#提示：" class="headerlink" title="提示："></a><strong>提示：</strong></h3><p>1、本工具无法下载大会员的视频；<br>2、软件可能会被误报；<br>3、个别网友下载到80%就停止的问题，建议减少线程数，下载模块有重试的功能，每一个任务都会自动重试5次，如果发现列表头打X，可以右击“开始下载”或重新解析再下载；</p><br><h3 id="领取方式"><a href="#领取方式" class="headerlink" title="领取方式"></a>领取方式</h3><p>0插件！0病毒！0捆绑！</p><details><summary>点击查看B站视频下载工具领取方式</summary><pre>扫码在“小秋Tools”微信公众号后台回复【哔哩】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbk65gyt001f2gvfbh08gutr/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>免费的Bilibili视频下载工具，B站视频下载软件，解析视频地址一键下载，可选解析清晰度，支持获取Up主视频专辑列表批量下载，支持多线程下载，支持分段视频下载后自动合并，支持下载视频弹幕XML文件。</p></blockquote><a id="more"></a><br><h3 id="使用方法："><a href="#使用方法：" class="headerlink" title="使用方法："></a><strong>使用方法：</strong></h3><p><img src="https://mmbiz.qpic.cn/mmbiz_png/rD6NJ7LnHchcL170PRf6T1JelcKcqwKwibRaNvG1ucroU13zPL6SZ5Im3D3qPTW9lVkdr9HkiaCIXDic5OAMYLIZg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt></p><p>还可以输入UP主ID（空间号）进行批量下载！</p><p><img src="/ckr0c1b4r000lrgbohm36cfw2/1.jpg" alt></p><br><h3 id="提示："><a href="#提示：" class="headerlink" title="提示："></a><strong>提示：</strong></h3><p>1、本工具无法下载大会员的视频；<br>2、软件可能会被误报；<br>3、个别网友下载到80%就停止的问题，建议减少线程数，下载模块有重试的功能，每一个任务都会自动重试5次，如果发现列表头打X，可以右击“开始下载”或重新解析再下载；</p><br><h3 id="领取方式"><a href="#领取方式" class="headerlink" title="领取方式"></a>领取方式</h3><p>0插件！0病毒！0捆绑！</p><details><summary>点击查看B站视频下载工具领取方式</summary><pre>扫码在“小秋Tools”微信公众号后台回复【哔哩】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbk65gyt001f2gvfbh08gutr/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
     
     <summary type="html">
     
@@ -163,8 +186,8 @@
   
   <entry>
     <title>哔哩哔哩去广告无限制</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff82002jfcboanic5766/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff82002jfcboanic5766/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b66002lrgboggarep7v/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b66002lrgboggarep7v/</id>
     <published>2020-06-24T09:11:56.000Z</published>
     <updated>2020-06-27T09:55:10.282Z</updated>
     
@@ -190,8 +213,8 @@
   
   <entry>
     <title>免费在线自助开通 Microsoft Office E3 账号（5TB Onedrive + 桌面版 Office）</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff81002ffcbo1szwbnke/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff81002ffcbo1szwbnke/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b5y0024rgbocl6q491t/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b5y0024rgbocl6q491t/</id>
     <published>2020-06-23T12:03:44.000Z</published>
     <updated>2020-06-23T12:14:04.555Z</updated>
     
@@ -219,8 +242,8 @@
   
   <entry>
     <title>吐血福利！速来领！5TB Onedrive + 桌面版office365 + win10企业版 正版激活授权</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff83002mfcboc32vf1tb/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff83002mfcboc32vf1tb/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b64002frgbo9xv73r1c/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b64002frgbo9xv73r1c/</id>
     <published>2020-06-23T11:55:22.000Z</published>
     <updated>2020-06-23T12:05:29.474Z</updated>
     
@@ -252,8 +275,8 @@
   
   <entry>
     <title>Xmind破解版</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff85002qfcbo8m603wqb/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff85002qfcbo8m603wqb/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b65002irgbo5vuy6bgl/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b65002irgbo5vuy6bgl/</id>
     <published>2020-06-22T03:48:38.000Z</published>
     <updated>2020-06-22T04:39:25.328Z</updated>
     
@@ -283,8 +306,8 @@
   
   <entry>
     <title>文库社下载百度文档</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff8c0031fcbocaisgdc2/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff8c0031fcbocaisgdc2/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b6b002yrgbo42ym3wi1/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b6b002yrgbo42ym3wi1/</id>
     <published>2020-06-21T06:12:14.000Z</published>
     <updated>2020-06-21T06:17:50.565Z</updated>
     
@@ -311,8 +334,8 @@
   
   <entry>
     <title>“锐普PPT超神课8节课”</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff7o0020fcbo4q1h6ixq/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff7o0020fcbo4q1h6ixq/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b5v001zrgbo6v1s01g7/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b5v001zrgbo6v1s01g7/</id>
     <published>2020-06-20T10:53:45.000Z</published>
     <updated>2020-06-20T11:17:46.696Z</updated>
     
@@ -340,12 +363,12 @@
   
   <entry>
     <title>Adobe Lightroom功能强大的图片编辑器</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff6i000afcbo4nwpg8pq/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff6i000afcbo4nwpg8pq/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b4k000drgboh8suav7l/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b4k000drgboh8suav7l/</id>
     <published>2020-06-20T06:09:49.000Z</published>
     <updated>2020-07-02T06:31:32.640Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>Adobe Photoshop Lightroom 是一款免费、功能强大且直观的照片编辑器且不可多得的p图及滤镜软件。Lightroom 能让您创建美图，进行图片处理，同时帮助您成为更优秀的摄影师。</p></blockquote><a id="more"></a><br><h3 id="免费功能"><a href="#免费功能" class="headerlink" title="免费功能"></a>免费功能</h3><p>• 预设：只需轻触照片编辑器，即可大幅度修图，获得美图<br>• 配置文件：使用这些强大的一键式工具，为您的照片编辑带来引人注目的视觉改变<br>• 曲线：进行高级照片编辑，以更改颜色、曝光度、色调和对比度<br>• 混色：照片优化和调色，使其焕然一新<br>• 清晰度、纹理与去雾霾：使用这些行业领先的工具，为您的照片编辑注入活力<br>• 交互式教程：完成摄影师同行整理的分步课程，从中获取灵感并学习如何进行所需的照片编辑，获得美图<br>• 专业级照相机：通过独特的控件释放手机的潜力。提供曝光、定时器、即时预设等选项<br>• 先进的照相机模式：使用高级摄影模式（如 Raw、专业和 hdr）获得更清晰的照片<br>• 整理与管理：使用文件夹、相册、星级和标记突出显示您的最佳照片和美图<br>保留原始照片，同时对比多个照片编辑版本，从中挑选你最喜爱的照片风格</p><hr><br><p><img src="/ckjcoff6i000afcbo4nwpg8pq/1.png" alt></p><br><h3 id="高级功能"><a href="#高级功能" class="headerlink" title="高级功能"></a>高级功能</h3><p>借助 Lightroom Premium 提升您的摄影水平！升级以解锁易于使用的照片编辑器工具，如修复画笔、选择性调整、几何工具、云存储。</p><p>• 修复画笔：移除您照片中的任何物品，无论其尺寸大小，从而完全掌握您的图像，轻易修图</p><p>• 选择性调整：使用手指或笔触精确编辑照片的任意部分，精准增强细节。运用“局部调色”功能进行选择性部位编辑，精准设定色调与饱和度，让您的照片更加传神。<br>• 几何工具：确保对齐。通过使用功能强大的 Upright、Guided Upright 和 Geometry 滑块工具来调整图像角度，借助直线对齐进而获得超清照片。<br>通过应用程序“探索”板块功能分享创作过程，向其他用户展示每一步图片制作方法。<br>• RAW 照片编辑：将单反或微单相机中的 raw 照片导入手机，以便您随时随地进行编辑</p><hr><br><h3 id="特殊版"><a href="#特殊版" class="headerlink" title="特殊版"></a>特殊版</h3><ul><li><p>添加东亚地区语言</p></li><li><p>大量翻译更新</p></li><li><p>添加库支持文件</p></li><li><p>修复老崩溃问题</p></li><li><p>破解内购，所有内置付费项目均免费</p></li></ul><br><br><details><summary>点击查看 Photoshop Lightroom 领取方式</summary><pre>微信扫描下方二维码在微信公众号后台回复【PL】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbx6rr8g001bbcvf24km212i/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>Adobe Photoshop Lightroom 是一款免费、功能强大且直观的照片编辑器且不可多得的p图及滤镜软件。Lightroom 能让您创建美图，进行图片处理，同时帮助您成为更优秀的摄影师。</p></blockquote><a id="more"></a><br><h3 id="免费功能"><a href="#免费功能" class="headerlink" title="免费功能"></a>免费功能</h3><p>• 预设：只需轻触照片编辑器，即可大幅度修图，获得美图<br>• 配置文件：使用这些强大的一键式工具，为您的照片编辑带来引人注目的视觉改变<br>• 曲线：进行高级照片编辑，以更改颜色、曝光度、色调和对比度<br>• 混色：照片优化和调色，使其焕然一新<br>• 清晰度、纹理与去雾霾：使用这些行业领先的工具，为您的照片编辑注入活力<br>• 交互式教程：完成摄影师同行整理的分步课程，从中获取灵感并学习如何进行所需的照片编辑，获得美图<br>• 专业级照相机：通过独特的控件释放手机的潜力。提供曝光、定时器、即时预设等选项<br>• 先进的照相机模式：使用高级摄影模式（如 Raw、专业和 hdr）获得更清晰的照片<br>• 整理与管理：使用文件夹、相册、星级和标记突出显示您的最佳照片和美图<br>保留原始照片，同时对比多个照片编辑版本，从中挑选你最喜爱的照片风格</p><hr><br><p><img src="/ckr0c1b4k000drgboh8suav7l/1.png" alt></p><br><h3 id="高级功能"><a href="#高级功能" class="headerlink" title="高级功能"></a>高级功能</h3><p>借助 Lightroom Premium 提升您的摄影水平！升级以解锁易于使用的照片编辑器工具，如修复画笔、选择性调整、几何工具、云存储。</p><p>• 修复画笔：移除您照片中的任何物品，无论其尺寸大小，从而完全掌握您的图像，轻易修图</p><p>• 选择性调整：使用手指或笔触精确编辑照片的任意部分，精准增强细节。运用“局部调色”功能进行选择性部位编辑，精准设定色调与饱和度，让您的照片更加传神。<br>• 几何工具：确保对齐。通过使用功能强大的 Upright、Guided Upright 和 Geometry 滑块工具来调整图像角度，借助直线对齐进而获得超清照片。<br>通过应用程序“探索”板块功能分享创作过程，向其他用户展示每一步图片制作方法。<br>• RAW 照片编辑：将单反或微单相机中的 raw 照片导入手机，以便您随时随地进行编辑</p><hr><br><h3 id="特殊版"><a href="#特殊版" class="headerlink" title="特殊版"></a>特殊版</h3><ul><li><p>添加东亚地区语言</p></li><li><p>大量翻译更新</p></li><li><p>添加库支持文件</p></li><li><p>修复老崩溃问题</p></li><li><p>破解内购，所有内置付费项目均免费</p></li></ul><br><br><details><summary>点击查看 Photoshop Lightroom 领取方式</summary><pre>微信扫描下方二维码在微信公众号后台回复【PL】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbx6rr8g001bbcvf24km212i/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
     
     <summary type="html">
     
@@ -371,12 +394,12 @@
   
   <entry>
     <title>Photoshop Camera最强拍照软件</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff760012fcbo2stxeki0/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff760012fcbo2stxeki0/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b5k001brgbobmebetdc/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b5k001brgbobmebetdc/</id>
     <published>2020-06-19T03:52:12.000Z</published>
     <updated>2020-06-19T04:19:09.093Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>Adobe在其MAX 2019主题演讲中展示了一款全新的手机应用——Photoshop Camera。Photoshop Camera拥有着强大的自动PS功能，可为照片一键切换各种背景。使切换背景和添加物体变得轻而易举，强大到以至于Adobe担心这种PS功能会被坏人利用而产生一些不好的后果，例如造假等等。因此，Photoshop Camera应用推出时，Adobe将一起启动致力于隐私保护和确保图像真实性的计划。除了对背景或前景元素进行PS外，用户还可以添加各种流行的滤镜。</p></blockquote><a id="more"></a><br><p>想象一下，如果 Photoshop 的神奇魔力就藏在您的相机里，会是怎样一种体验。对于 Photoshop Camera 来说，事实确实如此。它是一款全新的应用程序，可为您的照片选择所需的最佳镜头和效果 - 甚至在您拍照之前就已经帮您做好选择。</p><p><img src="/ckjcoff760012fcbo2stxeki0/1.gif" alt></p><br><p><strong>尽情畅玩</strong></p><p>切换操作简单，您可放心选择。您可以收藏喜爱的镜头和效果，以便多次使用。</p><p><img src="/ckjcoff760012fcbo2stxeki0/1.jpg" alt></p><br><p><strong>出类拔萃</strong></p><p>Photoshop Camera 提供令人惊叹的 AI 支持功能，可帮助您拍出惊艳的自拍照、美食照、风景照等。具备人像重新照明和畸变消除等快速修复功能，让您的图像发布事半功倍。</p><p><img src="https://www.adobe.com/content/dam/cc/us/en/products/photoshop-camera/max2019/v2/dt_ph_riverflow3_660x495.jpg.img.jpg" alt></p><p>目前Photoshop Camera只能在Apple App Store和Google Play可以下载，博主也是费了好大劲才终于下载到了</p><br><br><details><summary>点击查看 Photoshop Camera 领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【PS】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbk65gyq00192gvf6q9u7z7h/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>Adobe在其MAX 2019主题演讲中展示了一款全新的手机应用——Photoshop Camera。Photoshop Camera拥有着强大的自动PS功能，可为照片一键切换各种背景。使切换背景和添加物体变得轻而易举，强大到以至于Adobe担心这种PS功能会被坏人利用而产生一些不好的后果，例如造假等等。因此，Photoshop Camera应用推出时，Adobe将一起启动致力于隐私保护和确保图像真实性的计划。除了对背景或前景元素进行PS外，用户还可以添加各种流行的滤镜。</p></blockquote><a id="more"></a><br><p>想象一下，如果 Photoshop 的神奇魔力就藏在您的相机里，会是怎样一种体验。对于 Photoshop Camera 来说，事实确实如此。它是一款全新的应用程序，可为您的照片选择所需的最佳镜头和效果 - 甚至在您拍照之前就已经帮您做好选择。</p><p><img src="/ckr0c1b5k001brgbobmebetdc/1.gif" alt></p><br><p><strong>尽情畅玩</strong></p><p>切换操作简单，您可放心选择。您可以收藏喜爱的镜头和效果，以便多次使用。</p><p><img src="/ckr0c1b5k001brgbobmebetdc/1.jpg" alt></p><br><p><strong>出类拔萃</strong></p><p>Photoshop Camera 提供令人惊叹的 AI 支持功能，可帮助您拍出惊艳的自拍照、美食照、风景照等。具备人像重新照明和畸变消除等快速修复功能，让您的图像发布事半功倍。</p><p><img src="https://www.adobe.com/content/dam/cc/us/en/products/photoshop-camera/max2019/v2/dt_ph_riverflow3_660x495.jpg.img.jpg" alt></p><p>目前Photoshop Camera只能在Apple App Store和Google Play可以下载，博主也是费了好大劲才终于下载到了</p><br><br><details><summary>点击查看 Photoshop Camera 领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【PS】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbk65gyq00192gvf6q9u7z7h/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
     
     <summary type="html">
     
@@ -402,12 +425,12 @@
   
   <entry>
     <title>Photoshop Express内购解锁版</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff770017fcboguvk65hd/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff770017fcboguvk65hd/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b5c000yrgbo92hu09cz/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b5c000yrgbo92hu09cz/</id>
     <published>2020-06-18T08:12:14.000Z</published>
     <updated>2020-06-19T03:53:27.751Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>手机版的photoshop可以做些简单的图像处理。特点：支持屏幕横向照片，重新设计了线上、编辑和上传工作流， 在一个工作流中按顺序处理多个照片的能力， 重新设计了管理图片，简化了相簿共享， 升级了程式图标和外观，查找和使用编辑器更加轻松；</p></blockquote><a id="more"></a><br><h2 id="软件功能"><a href="#软件功能" class="headerlink" title="软件功能"></a>软件功能</h2><ul><li>基础内容：裁剪、修齐、旋转和翻转照片。移除红眼和宠物眼。</li><li>自动修复：一键调整对比度、曝光量和白平衡。</li><li>去除斑点：一键去除照片中的斑点、污点和蒙尘。</li><li>颜色：滑动控件可以校正清晰度、对比度、曝光量、高光、阴影、色温、色调、锐化和抖动。</li><li>一键使用滤镜或外观：提供 20 多种吸引眼球的效果！还可以控制外观强度。</li><li>自定义外观：创建并保存自己的外观。</li><li>图像渲染引擎：提高了性能，可以处理大文件，例如全景照片。</li><li>边框：提供 15 种边框和相框，让您的照片与众不同。尽情张扬、大胆表现！</li><li>原始照片格式支持：可以导入和编辑原始格式的照片。</li><li>一键使用滤镜或外观：获得 20 多种滤镜效果，让您的照片更加有趣鲜活！</li><li>降噪：最大程度减少夜景照片和其它低光照片中恼人的颗粒与斑点。</li><li>除雾：降低照片中的雾霾。</li></ul><p><img src="/ckjcoff770017fcboguvk65hd/1.png" alt></p><br><h2 id="特殊版特点"><a href="#特殊版特点" class="headerlink" title="特殊版特点"></a>特殊版特点</h2><p>-高级功能已解锁；</p><p>-无需Adobe ID帐户；</p><p>-禁用/删除不需要的权限+接收者和服务；<br><br></p><h2 id="提醒"><a href="#提醒" class="headerlink" title="提醒"></a>提醒</h2><p>第一次打开app时需断网，可以点击左上角关闭ID登录，不然可能无法使用！</p><p>如果首次运行没断网，需要清空程序数据，才能再次出现关闭按钮！</p><p><img src="/ckjcoff770017fcboguvk65hd/2.png" alt></p><br><details><summary>点击查看 Photoshop Express内购解锁版 领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【PSE】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbk65gyq00192gvf6q9u7z7h/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>手机版的photoshop可以做些简单的图像处理。特点：支持屏幕横向照片，重新设计了线上、编辑和上传工作流， 在一个工作流中按顺序处理多个照片的能力， 重新设计了管理图片，简化了相簿共享， 升级了程式图标和外观，查找和使用编辑器更加轻松；</p></blockquote><a id="more"></a><br><h2 id="软件功能"><a href="#软件功能" class="headerlink" title="软件功能"></a>软件功能</h2><ul><li>基础内容：裁剪、修齐、旋转和翻转照片。移除红眼和宠物眼。</li><li>自动修复：一键调整对比度、曝光量和白平衡。</li><li>去除斑点：一键去除照片中的斑点、污点和蒙尘。</li><li>颜色：滑动控件可以校正清晰度、对比度、曝光量、高光、阴影、色温、色调、锐化和抖动。</li><li>一键使用滤镜或外观：提供 20 多种吸引眼球的效果！还可以控制外观强度。</li><li>自定义外观：创建并保存自己的外观。</li><li>图像渲染引擎：提高了性能，可以处理大文件，例如全景照片。</li><li>边框：提供 15 种边框和相框，让您的照片与众不同。尽情张扬、大胆表现！</li><li>原始照片格式支持：可以导入和编辑原始格式的照片。</li><li>一键使用滤镜或外观：获得 20 多种滤镜效果，让您的照片更加有趣鲜活！</li><li>降噪：最大程度减少夜景照片和其它低光照片中恼人的颗粒与斑点。</li><li>除雾：降低照片中的雾霾。</li></ul><p><img src="/ckr0c1b5c000yrgbo92hu09cz/1.png" alt></p><br><h2 id="特殊版特点"><a href="#特殊版特点" class="headerlink" title="特殊版特点"></a>特殊版特点</h2><p>-高级功能已解锁；</p><p>-无需Adobe ID帐户；</p><p>-禁用/删除不需要的权限+接收者和服务；<br><br></p><h2 id="提醒"><a href="#提醒" class="headerlink" title="提醒"></a>提醒</h2><p>第一次打开app时需断网，可以点击左上角关闭ID登录，不然可能无法使用！</p><p>如果首次运行没断网，需要清空程序数据，才能再次出现关闭按钮！</p><p><img src="/ckr0c1b5c000yrgbo92hu09cz/2.png" alt></p><br><details><summary>点击查看 Photoshop Express内购解锁版 领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【PSE】希望对大家能有所帮助！<p><img src="https://xiaoqiu2020.gitee.io/ckbk65gyq00192gvf6q9u7z7h/gzh.jpeg" alt></p></pre></details><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
     
     <summary type="html">
     
@@ -433,12 +456,12 @@
   
   <entry>
     <title>WPS去广告高级版</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff7a001dfcbog0gafnoa/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff7a001dfcbog0gafnoa/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b5m001hrgboe2h97d2b/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b5m001hrgboe2h97d2b/</id>
     <published>2020-06-18T01:41:34.000Z</published>
     <updated>2020-06-18T02:23:47.135Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>WPS Office是由金山软件股份有限公司自主研发的一款办公软件套装，可以实现办公软件最常用的文字、表格、演示，PDF阅读等多种功能。具有内存占用低、运行速度快、云功能多、强大插件平台支持、免费提供海量在线存储空间及文档模板的优点。</p></blockquote><a id="more"></a><br><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>金山 WPS Office 移动版国内同类产品排名第一，Google官方Android市场排名领先。用户遍布全球220多个国家和地区。完全兼容桌面办公文档，支持DOC/DOCX/WPS/XLS/XLSX/PPT/PPTX/TXT/PDF等23种文件格式。支持查看、创建和编辑各种常用Office文档，方便用户在手机和平板上使用，满足您随时随地办公的需求。</p><p><img src="/ckjcoff7a001dfcbog0gafnoa/1.png" alt></p><br><h2 id="官方更新"><a href="#官方更新" class="headerlink" title="官方更新"></a>官方更新</h2><p>·新增：支持文件夹共享，分享文档更便利<br>·优化：支持搜索共享文件夹<br>·优化：邀请他人一起编辑，支持查看加入成员<br>·新增：图片、形状等对象支持自由旋转<br>·新增：表格输出长图时可以添加标题及头图<br>·优化：文本框和形状增加渐变色填充<br>·新增：支持区域高亮内容，作为图片重点导出成文档<br>·优化：快速识别文字，支持复制和导出文档</p><br><h2 id="特殊版"><a href="#特殊版" class="headerlink" title="特殊版"></a>特殊版</h2><p>当然优点归优点，WPS的最大缺点就是广告越来越多！特殊版就完美解决了这个问题！</p><p><strong>会员特权：</strong></p><p><img src="/ckjcoff7a001dfcbog0gafnoa/2.png" alt></p><br><p><strong>特殊版特点：</strong></p><p>·高级版本功能解锁<br>·转换PDF格式解锁<br>·PDF签名解锁<br>·移除全部广告和活动项<br>·禁用分析<br>·精简布局，永久去除升级</p><p><strong>注意：</strong>要登录账号才可以使用特权，推荐邮箱注册登录，任意邮箱无需验证！！！登录即是会员！</p><br><details><summary>点击查看 WPS高级版 领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【WPS】希望对大家能有所帮助！<p><img src="/ckjcoff7a001dfcbog0gafnoa/gzh.jpeg" alt></p></pre></details><br><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>WPS Office是由金山软件股份有限公司自主研发的一款办公软件套装，可以实现办公软件最常用的文字、表格、演示，PDF阅读等多种功能。具有内存占用低、运行速度快、云功能多、强大插件平台支持、免费提供海量在线存储空间及文档模板的优点。</p></blockquote><a id="more"></a><br><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><p>金山 WPS Office 移动版国内同类产品排名第一，Google官方Android市场排名领先。用户遍布全球220多个国家和地区。完全兼容桌面办公文档，支持DOC/DOCX/WPS/XLS/XLSX/PPT/PPTX/TXT/PDF等23种文件格式。支持查看、创建和编辑各种常用Office文档，方便用户在手机和平板上使用，满足您随时随地办公的需求。</p><p><img src="/ckr0c1b5m001hrgboe2h97d2b/1.png" alt></p><br><h2 id="官方更新"><a href="#官方更新" class="headerlink" title="官方更新"></a>官方更新</h2><p>·新增：支持文件夹共享，分享文档更便利<br>·优化：支持搜索共享文件夹<br>·优化：邀请他人一起编辑，支持查看加入成员<br>·新增：图片、形状等对象支持自由旋转<br>·新增：表格输出长图时可以添加标题及头图<br>·优化：文本框和形状增加渐变色填充<br>·新增：支持区域高亮内容，作为图片重点导出成文档<br>·优化：快速识别文字，支持复制和导出文档</p><br><h2 id="特殊版"><a href="#特殊版" class="headerlink" title="特殊版"></a>特殊版</h2><p>当然优点归优点，WPS的最大缺点就是广告越来越多！特殊版就完美解决了这个问题！</p><p><strong>会员特权：</strong></p><p><img src="/ckr0c1b5m001hrgboe2h97d2b/2.png" alt></p><br><p><strong>特殊版特点：</strong></p><p>·高级版本功能解锁<br>·转换PDF格式解锁<br>·PDF签名解锁<br>·移除全部广告和活动项<br>·禁用分析<br>·精简布局，永久去除升级</p><p><strong>注意：</strong>要登录账号才可以使用特权，推荐邮箱注册登录，任意邮箱无需验证！！！登录即是会员！</p><br><details><summary>点击查看 WPS高级版 领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【WPS】希望对大家能有所帮助！<p><img src="/ckr0c1b5m001hrgboe2h97d2b/gzh.jpeg" alt></p></pre></details><br><br><p><strong>免责声明：博客中所发布的一切破解补丁、注册机和注册信息及软件的解密分析文章仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站信息来自网络，版权争议与本站无关。您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请邮件与我们联系处理。</strong></p>]]></content>
     
     <summary type="html">
     
@@ -464,12 +487,12 @@
   
   <entry>
     <title>VSCO全滤镜破解版</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff790019fcbo7ld96z5c/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff790019fcbo7ld96z5c/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b5h0016rgboavds3hi7/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b5h0016rgboavds3hi7/</id>
     <published>2020-06-16T03:17:15.000Z</published>
     <updated>2020-06-16T03:35:12.014Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>VSCO是时下一款非常流行的社交类摄影App。VSCO Cam来自色彩件开发商VSCO，该公司为Adobe Lightroom和苹果的Aperture开发过著名色彩插件VSCO Film。其iOS版也曾在苹果的App Store中排名榜首，现在VSCO Cam安卓版的推出将让更多的用户领略到这款软件的魅力。</p></blockquote><a id="more"></a><br><h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>随着版本的不断升级，VSCO 逐渐成了一款功能强大的摄影App，包含了相机拍照、照片编辑和照片分享三大功能。虽如此，但VSCO依然保持了简单的使用方式(对于已上手用户而言使用非常简单)，可以利用VSCO内置包含了强大手动控制功能的相机进行拍摄，也可 以利用VSCO内数量众多的胶片滤镜、照片基础调整工具对照片进行处理，创造出令人着迷、胶片味道十足的手机摄影作品。</p><p><img src="/ckjcoff790019fcbo7ld96z5c/1.jpg" alt></p><br><h2 id="调色技巧"><a href="#调色技巧" class="headerlink" title="调色技巧"></a>调色技巧</h2><p>（1）充足的曝光至关重要</p><p>（2）调节适当的滤镜强度</p><p>（3）冷暖对效果使用至关重要</p><p>（4）适当的增添高光阴影色调</p><p>（5）新增的视频调色</p><p>（6）复制黏贴，批量操作</p><br><h2 id="破解版"><a href="#破解版" class="headerlink" title="破解版"></a>破解版</h2><p>VSCO虽好，但是现在国内已经不能用了，已经被墙了！</p><p><img src="/ckjcoff790019fcbo7ld96z5c/1.png" alt></p><p>破解版基于官方版本修改解除限制！</p><p>解锁了120+收费滤镜！</p><p><img src="/ckjcoff790019fcbo7ld96z5c/1.gif" alt></p><br><details><summary>点击查看VSCO全滤镜破解版领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【VSCO】希望对大家能有所帮助！<p><img src="/ckjcoff790019fcbo7ld96z5c/gzh.jpeg" alt></p></pre></details>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>VSCO是时下一款非常流行的社交类摄影App。VSCO Cam来自色彩件开发商VSCO，该公司为Adobe Lightroom和苹果的Aperture开发过著名色彩插件VSCO Film。其iOS版也曾在苹果的App Store中排名榜首，现在VSCO Cam安卓版的推出将让更多的用户领略到这款软件的魅力。</p></blockquote><a id="more"></a><br><h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>随着版本的不断升级，VSCO 逐渐成了一款功能强大的摄影App，包含了相机拍照、照片编辑和照片分享三大功能。虽如此，但VSCO依然保持了简单的使用方式(对于已上手用户而言使用非常简单)，可以利用VSCO内置包含了强大手动控制功能的相机进行拍摄，也可 以利用VSCO内数量众多的胶片滤镜、照片基础调整工具对照片进行处理，创造出令人着迷、胶片味道十足的手机摄影作品。</p><p><img src="/ckr0c1b5h0016rgboavds3hi7/1.jpg" alt></p><br><h2 id="调色技巧"><a href="#调色技巧" class="headerlink" title="调色技巧"></a>调色技巧</h2><p>（1）充足的曝光至关重要</p><p>（2）调节适当的滤镜强度</p><p>（3）冷暖对效果使用至关重要</p><p>（4）适当的增添高光阴影色调</p><p>（5）新增的视频调色</p><p>（6）复制黏贴，批量操作</p><br><h2 id="破解版"><a href="#破解版" class="headerlink" title="破解版"></a>破解版</h2><p>VSCO虽好，但是现在国内已经不能用了，已经被墙了！</p><p><img src="/ckr0c1b5h0016rgboavds3hi7/1.png" alt></p><p>破解版基于官方版本修改解除限制！</p><p>解锁了120+收费滤镜！</p><p><img src="/ckr0c1b5h0016rgboavds3hi7/1.gif" alt></p><br><details><summary>点击查看VSCO全滤镜破解版领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【VSCO】希望对大家能有所帮助！<p><img src="/ckr0c1b5h0016rgboavds3hi7/gzh.jpeg" alt></p></pre></details>]]></content>
     
     <summary type="html">
     
@@ -493,8 +516,8 @@
   
   <entry>
     <title>Office密钥0616更新</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff75000zfcbof5kb1zns/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff75000zfcbof5kb1zns/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b5g0012rgbo5igy8ayf/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b5g0012rgbo5igy8ayf/</id>
     <published>2020-06-16T01:45:33.000Z</published>
     <updated>2020-06-23T12:06:40.315Z</updated>
     
@@ -522,8 +545,8 @@
   
   <entry>
     <title>Win10密钥0616更新</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff7g001mfcbo81ij7wai/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff7g001mfcbo81ij7wai/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b5l001frgbo2on1dcbc/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b5l001frgbo2on1dcbc/</id>
     <published>2020-06-16T01:42:32.000Z</published>
     <updated>2020-06-23T12:06:08.153Z</updated>
     
@@ -549,12 +572,12 @@
   
   <entry>
     <title>亿寻百度网盘不限速下载</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff7o0022fcbod7w19pyf/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff7o0022fcbod7w19pyf/</id>
+    <link href="http://xiaoqiu2020.xyz/ckr0c1b600027rgbofoyig286/"/>
+    <id>http://xiaoqiu2020.xyz/ckr0c1b600027rgbofoyig286/</id>
     <published>2020-06-15T03:32:11.000Z</published>
     <updated>2020-06-15T04:49:29.208Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>自pandownload被举报封停后，大家为了百度网盘下载不限速，真是想尽了办法，各种第三方的工具层出不穷，PDown、超级网盘等等，但是博主体验下来还是亿寻最好用！开发者的初衷是仅为寻人而写，想通过其请大家帮助寻人。下载资源起来可能比开了超级会员还要快，决定你下载速度的只有网速！最重要的是无需登录，也就避免了隐私泄露和封号风险！</p></blockquote><a id="more"></a><br><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>1.依次点击【文件】、【打开】</p><p><img src="/ckjcoff7o0022fcbod7w19pyf/1.png" alt></p><br><p>2.在弹窗中粘贴分享链接（格式：链接+空格+提取码）后点击【打开】</p><p><img src="/ckjcoff7o0022fcbod7w19pyf/2.png" alt></p><br><p>3.右击选择【下载】下载大文件有时会发生错误，我们重新右击文件选择【备用下载】就可以了</p><p>亲测网速可达是18M/秒，速度快慢只取决于你的网速！</p><p><img src="/ckjcoff7o0022fcbod7w19pyf/3.png" alt></p><br><p>因为百度网盘司法部门的警告，PDown已经宣布停止维护了，希望亿寻可以走得更远✈</p><p><br><br></p><h2 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h2><br><details><summary>点击查看亿寻领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【亿寻】希望对大家能有所帮助！<p><img src="/ckjcoff7o0022fcbod7w19pyf/gzh.jpeg" alt></p></pre></details>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>自pandownload被举报封停后，大家为了百度网盘下载不限速，真是想尽了办法，各种第三方的工具层出不穷，PDown、超级网盘等等，但是博主体验下来还是亿寻最好用！开发者的初衷是仅为寻人而写，想通过其请大家帮助寻人。下载资源起来可能比开了超级会员还要快，决定你下载速度的只有网速！最重要的是无需登录，也就避免了隐私泄露和封号风险！</p></blockquote><a id="more"></a><br><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>1.依次点击【文件】、【打开】</p><p><img src="/ckr0c1b600027rgbofoyig286/1.png" alt></p><br><p>2.在弹窗中粘贴分享链接（格式：链接+空格+提取码）后点击【打开】</p><p><img src="/ckr0c1b600027rgbofoyig286/2.png" alt></p><br><p>3.右击选择【下载】下载大文件有时会发生错误，我们重新右击文件选择【备用下载】就可以了</p><p>亲测网速可达是18M/秒，速度快慢只取决于你的网速！</p><p><img src="/ckr0c1b600027rgbofoyig286/3.png" alt></p><br><p>因为百度网盘司法部门的警告，PDown已经宣布停止维护了，希望亿寻可以走得更远✈</p><p><br><br></p><h2 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h2><br><details><summary>点击查看亿寻领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【亿寻】希望对大家能有所帮助！<p><img src="/ckr0c1b600027rgbofoyig286/gzh.jpeg" alt></p></pre></details>]]></content>
     
     <summary type="html">
     
@@ -575,37 +598,6 @@
       <category term="百度网盘" scheme="http://xiaoqiu2020.xyz/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/"/>
     
       <category term="办公" scheme="http://xiaoqiu2020.xyz/tags/%E5%8A%9E%E5%85%AC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>浏览器插件:03.ublock origin屏蔽各大平台片头广告</title>
-    <link href="http://xiaoqiu2020.xyz/ckjcoff620000fcboe86c68zo/"/>
-    <id>http://xiaoqiu2020.xyz/ckjcoff620000fcboe86c68zo/</id>
-    <published>2020-06-13T12:10:23.000Z</published>
-    <updated>2020-06-13T12:44:44.009Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>ublock origin是一款高效的请求过滤工具：占用极低的内存和CPU，和其他常见的过滤工具相比，它能够加载并执行上千条过滤规则。可以屏蔽优酷，腾讯，爱奇艺，YouTube等等平台的片头广告！</p></blockquote><a id="more"></a><br><h2 id="安装方法"><a href="#安装方法" class="headerlink" title="安装方法"></a>安装方法</h2><p>将下载好的插件压缩包直接拖到扩展程序窗口（无需解压）</p><p><img src="/ckjcoff620000fcboe86c68zo/1.gif" alt></p><br><h2 id="插件效果"><a href="#插件效果" class="headerlink" title="插件效果"></a>插件效果</h2><h4 id="爱奇艺"><a href="#爱奇艺" class="headerlink" title="爱奇艺"></a>爱奇艺</h4><p>安装前：</p><p><img src="/ckjcoff620000fcboe86c68zo/2.gif" alt></p><p>安装后：</p><p><img src="/ckjcoff620000fcboe86c68zo/3.gif" alt></p><br><h4 id="优酷"><a href="#优酷" class="headerlink" title="优酷"></a>优酷</h4><p>安装后：</p><p><img src="/ckjcoff620000fcboe86c68zo/4.gif" alt></p><br><h4 id="腾讯"><a href="#腾讯" class="headerlink" title="腾讯"></a>腾讯</h4><p>安装后：</p><p><img src="/ckjcoff620000fcboe86c68zo/5.gif" alt></p><p>还有许多就不一一展示了！</p><br><h2 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h2><p>传送⛩：<a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm" target="_blank" rel="noopener">uBlock Origin</a></p><p>不能使用科学上网的同学使用下面这个方法</p><details><summary>点击查看ublock origin领取方式</summary><pre>扫码在“小秋PPT”微信公众号后台回复【浏览器】希望对大家能有所帮助！<p><img src="/ckjcoff620000fcboe86c68zo/gzh.jpeg" alt></p></pre></details>]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;ublock origin是一款高效的请求过滤工具：占用极低的内存和CPU，和其他常见的过滤工具相比，它能够加载并执行上千条过滤规则。可以屏蔽优酷，腾讯，爱奇艺，YouTube等等平台的片头广告！&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="谷歌插件" scheme="http://xiaoqiu2020.xyz/categories/%E8%B0%B7%E6%AD%8C%E6%8F%92%E4%BB%B6/"/>
-    
-    
-      <category term="谷歌浏览器" scheme="http://xiaoqiu2020.xyz/tags/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-    
-      <category term="星愿浏览器" scheme="http://xiaoqiu2020.xyz/tags/%E6%98%9F%E6%84%BF%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-    
-      <category term="浏览器插件" scheme="http://xiaoqiu2020.xyz/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/"/>
-    
-      <category term="神器" scheme="http://xiaoqiu2020.xyz/tags/%E7%A5%9E%E5%99%A8/"/>
     
   </entry>
   
